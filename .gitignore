@@ -22,7 +22,7 @@ pip-wheel-metadata/
 # ----------------------------
 # Environment & Secrets
 # ----------------------------
-*.env
+.env
 .env.local
 .env.*.local
 secrets.json
