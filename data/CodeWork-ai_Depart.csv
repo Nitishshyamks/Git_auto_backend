@@ -9,7 +9,7 @@ Expected Result:
 The sign-in and sign-up screens should display and respond properly.
 
 ![Image](https://github.com/user-attachments/assets/34522517-c98a-4708-b3f1-ea53d5c7db4e)
-![Image](https://github.com/user-attachments/assets/ad020566-5ef1-4b12-9b41-d013447f9dc3)",Roopesh618,suruthisagar97,,,bug,,,,2025-10-14 07:18:28+00:00,2025-10-14 07:18:28+00:00,https://github.com/CodeWork-ai/Depart/issues/16
+![Image](https://github.com/user-attachments/assets/ad020566-5ef1-4b12-9b41-d013447f9dc3)",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-14 07:18:28+00:00,2025-10-14 07:18:28+00:00,https://github.com/CodeWork-ai/Depart/issues/16
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf20UA,Issue,Depart,,Wrong pop-up message shown on Login without details,"Steps to Reproduce:
 Sing in and Signup to the platform using the  account.
 
@@ -21,7 +21,7 @@ A proper validation message should appear, prompting the user to enter the requi
 
 ![Image](https://github.com/user-attachments/assets/685f0b6a-1856-4571-b2c2-3ed51a11830a)
 
-![Image](https://github.com/user-attachments/assets/9538caf2-86fa-45ad-aded-cf76e7381760)",Roopesh618,suruthisagar97,,,bug,,,,2025-10-14 10:06:55+00:00,2025-10-14 10:15:17+00:00,https://github.com/CodeWork-ai/Depart/issues/17
+![Image](https://github.com/user-attachments/assets/9538caf2-86fa-45ad-aded-cf76e7381760)",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-14 10:06:55+00:00,2025-10-14 10:15:17+00:00,https://github.com/CodeWork-ai/Depart/issues/17
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf2510,Issue,Depart,,Register button spins too long; no proper message for duplicate email,"Steps to Reproduce:
 Signup to the platform using the  account.
 
@@ -31,7 +31,7 @@ When providing the same email and clicking the Register button, a wrong pop-up m
 Expected Result:
 A proper validation message should be displayed indicating that the email is already registered, and the Register button should stop loading immediately.
 
-https://github.com/user-attachments/assets/bd70f2d6-b537-40be-ba4b-cfa3c1b096e4",Roopesh618,suruthisagar97,,,bug,,,,2025-10-14 10:37:17+00:00,2025-10-14 10:37:17+00:00,https://github.com/CodeWork-ai/Depart/issues/18
+https://github.com/user-attachments/assets/bd70f2d6-b537-40be-ba4b-cfa3c1b096e4",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-14 10:37:17+00:00,2025-10-14 10:37:17+00:00,https://github.com/CodeWork-ai/Depart/issues/18
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf27JI,Issue,Depart,,Email and password auto-filled on Login screen after Signup,"Steps to Reproduce:
 Signup to the platform using the  account.
 
@@ -41,7 +41,7 @@ When providing the email and password on the Signup screen, the same email and p
 Expected Result:
 The email and password fields on the Login screen should be blank after completing the signup process. User credentials should not be pre-filled automatically.
 
-https://github.com/user-attachments/assets/bc03fbc6-c91b-4ebc-9b91-fc82f71da5c6",Roopesh618,suruthisagar97,,,bug,,,,2025-10-14 10:45:21+00:00,2025-10-14 10:45:21+00:00,https://github.com/CodeWork-ai/Depart/issues/19
+https://github.com/user-attachments/assets/bc03fbc6-c91b-4ebc-9b91-fc82f71da5c6",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-14 10:45:21+00:00,2025-10-14 10:45:21+00:00,https://github.com/CodeWork-ai/Depart/issues/19
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf5chU,Issue,Depart,,Send OTP button not working after entering valid phone number on verification screen,"Steps to Reproduce:
 Sign up to the platform using the  account.
 Click on Register
@@ -52,7 +52,7 @@ After completing KYC, on the phone number verification screen, the “Send OTP�
 Expected Result:
 After entering a valid phone number and clicking the Send OTP button, an OTP should be sent successfully to the entered number, and a confirmation message should be displayed.
 
-https://github.com/user-attachments/assets/cf72dc71-c951-4a17-a9cd-fce319498bb8",Roopesh618,suruthisagar97,,,bug,,,,2025-10-15 06:22:31+00:00,2025-10-23 05:17:49+00:00,https://github.com/CodeWork-ai/Depart/issues/21
+https://github.com/user-attachments/assets/cf72dc71-c951-4a17-a9cd-fce319498bb8",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-15 06:22:31+00:00,2025-10-23 05:17:49+00:00,https://github.com/CodeWork-ai/Depart/issues/21
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf5eYw,Issue,Depart,,Google Sign-In redirects to the wrong page (Phone Number Verification),"**Steps to Reproduce:**
 
 Open the Link application – the Home Screen appears.
@@ -79,7 +79,7 @@ Device: Android
 
 OS Version: 15
 
-https://github.com/user-attachments/assets/ec882c80-e744-41ed-93c9-71ea181ea283",Roopesh618,Ganesann-Ashokkumarr,,,,,,,2025-10-15 06:35:51+00:00,2025-10-21 19:14:06+00:00,https://github.com/CodeWork-ai/Depart/issues/23
+https://github.com/user-attachments/assets/ec882c80-e744-41ed-93c9-71ea181ea283",Roopesh618,Ganesann-Ashokkumarr,Development,Normal,,,,,2025-10-15 06:35:51+00:00,2025-10-21 19:14:06+00:00,https://github.com/CodeWork-ai/Depart/issues/23
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf83n4,Issue,Depart,,Incorrectly enabled buttons on Past Booking page,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on Booking.
@@ -88,7 +88,7 @@ Actual Result:
 On the Past Booking page, the Track Now and Cancel buttons are enabled.
 
 Expected Result:
-On the Past Booking page, the Track Now and Cancel buttons should be removed from the screen.",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-16 07:30:11+00:00,2025-10-23 05:43:13+00:00,https://github.com/CodeWork-ai/Depart/issues/37
+On the Past Booking page, the Track Now and Cancel buttons should be removed from the screen.",suruthisagar97,suruthisagar97,Development,Normal,bug,,,,2025-10-16 07:30:11+00:00,2025-10-23 05:43:13+00:00,https://github.com/CodeWork-ai/Depart/issues/37
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf5mTg,Issue,Depart,,Name field missing in registration form,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on Register
@@ -97,7 +97,7 @@ Actual Result:
 In the registration form, the Name column is missing.
 
 Expected Result:
-The registration form should include a Name field where the user can enter their full name before submitting the form.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-15 07:22:40+00:00,2025-10-23 05:45:32+00:00,https://github.com/CodeWork-ai/Depart/issues/26
+The registration form should include a Name field where the user can enter their full name before submitting the form.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-15 07:22:40+00:00,2025-10-23 05:45:32+00:00,https://github.com/CodeWork-ai/Depart/issues/26
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf53mc,Issue,Depart,,Black screen appears when returning to home screen,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on User
@@ -108,7 +108,7 @@ On the home page, when switching to another screen and returning to the home scr
 Expected Result:
 The registration form should include a Name field where the user can enter their full name before submitting the form.
 
-https://github.com/user-attachments/assets/af02dd86-c5df-447b-96a0-5fd6f3f51332",Roopesh618,suruthisagar97,,,bug,,,,2025-10-15 08:49:35+00:00,2025-10-15 08:49:35+00:00,https://github.com/CodeWork-ai/Depart/issues/27
+https://github.com/user-attachments/assets/af02dd86-c5df-447b-96a0-5fd6f3f51332",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-15 08:49:35+00:00,2025-10-15 08:49:35+00:00,https://github.com/CodeWork-ai/Depart/issues/27
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf59hI,Issue,Depart,,Ride not created and data not cleared after clicking Confirm Ride,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on Schedule.
@@ -119,7 +119,7 @@ On the Schedule a Ride page, after providing all details and clicking the Confir
 Expected Result:
 After providing all details and clicking the Confirm Ride button, the ride should be successfully created, a confirmation message should be displayed, and all previously entered data should be cleared from the screen.
 
-https://github.com/user-attachments/assets/caba63d6-b845-4eea-b692-49a42c52a520",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-15 09:12:16+00:00,2025-10-23 06:11:53+00:00,https://github.com/CodeWork-ai/Depart/issues/28
+https://github.com/user-attachments/assets/caba63d6-b845-4eea-b692-49a42c52a520",suruthisagar97,suruthisagar97,Development,Normal,bug,,,,2025-10-15 09:12:16+00:00,2025-10-23 06:11:53+00:00,https://github.com/CodeWork-ai/Depart/issues/28
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf5_y0,Issue,Depart,,Location autocomplete not working in Pickup/Drop fields,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on Schedule.
@@ -130,7 +130,7 @@ In the Pickup and Drop location fields, location suggestions are not displayed w
 Expected Result:
 When the user enters a location name in the Pickup or Drop location fields, relevant location suggestions should be displayed automatically for selection.
 
-https://github.com/user-attachments/assets/5f3e48ce-1a70-4690-a42a-d3178438a120",Roopesh618,suruthisagar97,,,bug,,,,2025-10-15 09:22:15+00:00,2025-10-15 09:22:15+00:00,https://github.com/CodeWork-ai/Depart/issues/29
+https://github.com/user-attachments/assets/5f3e48ce-1a70-4690-a42a-d3178438a120",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-15 09:22:15+00:00,2025-10-15 09:22:15+00:00,https://github.com/CodeWork-ai/Depart/issues/29
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf6Agk,Issue,Depart,,Improper UI response for Select Time field,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on Schedule.
@@ -143,7 +143,7 @@ The Select Time field should display a proper and responsive UI component, allow
 
 ![Image](https://github.com/user-attachments/assets/6de13978-7ccf-454d-b232-31e962d386e1)
 
-![Image](https://github.com/user-attachments/assets/679ee9b9-d691-490f-92be-ff8502ca4435)",Roopesh618,suruthisagar97,,,bug,,,,2025-10-15 09:25:36+00:00,2025-10-21 19:06:11+00:00,https://github.com/CodeWork-ai/Depart/issues/30
+![Image](https://github.com/user-attachments/assets/679ee9b9-d691-490f-92be-ff8502ca4435)",Roopesh618,suruthisagar97,Backlog,Normal,bug,,,,2025-10-15 09:25:36+00:00,2025-10-21 19:06:11+00:00,https://github.com/CodeWork-ai/Depart/issues/30
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf6KUk,Issue,Depart,,Notification not sent to service provider or user during ride booking and cancellation,"Steps to Reproduce:
 Open to the platform using the  account.
 
@@ -154,7 +154,7 @@ Expected Result:
 After clicking “Book Ride,” a notification should be sent to the service provider, and it should also appear in the application.
 If the provider cancels the ride, the user should receive a notification, and the Requesting button should update to reflect the cancellation (e.g., return to its default state or show a cancellation message).
 
-https://github.com/user-attachments/assets/6088791a-cc55-4e96-ae7e-1d64f7c63a0f",Roopesh618,suruthisagar97,,,bug,,,,2025-10-15 10:12:08+00:00,2025-10-15 10:14:49+00:00,https://github.com/CodeWork-ai/Depart/issues/32
+https://github.com/user-attachments/assets/6088791a-cc55-4e96-ae7e-1d64f7c63a0f",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-15 10:12:08+00:00,2025-10-15 10:14:49+00:00,https://github.com/CodeWork-ai/Depart/issues/32
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf6MQg,Issue,Depart,,Current and Past Booking pages show same data after booking.,"Steps to Reproduce:
 Open to the platform using the  account.
 
@@ -166,7 +166,7 @@ After booking confirmation, the user is redirected to the Booking page. Current 
 
 ![Image](https://github.com/user-attachments/assets/3417915b-b160-4047-93e8-9b325ca4b84d)
 
-![Image](https://github.com/user-attachments/assets/2b92840c-65c4-4fd5-a372-cfd73d174d63)",Roopesh618,suruthisagar97,,,bug,,,,2025-10-15 10:22:29+00:00,2025-10-15 10:22:29+00:00,https://github.com/CodeWork-ai/Depart/issues/33
+![Image](https://github.com/user-attachments/assets/2b92840c-65c4-4fd5-a372-cfd73d174d63)",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-15 10:22:29+00:00,2025-10-15 10:22:29+00:00,https://github.com/CodeWork-ai/Depart/issues/33
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf__qc,Issue,Depart,,Page redirects to home screen after submitting review,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on Booking.
@@ -176,7 +176,7 @@ Actual Result:
 On the Past Booking page, select any past booking. It shows a ""Give a Review"" option. After submitting a review, the page automatically redirects to the home screen.
 
 Expected Result:
-After submitting a review, the user should remain on the same booking details page, and the ""Give a Review"" option should no longer be displayed.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-17 06:30:28+00:00,2025-10-17 06:30:28+00:00,https://github.com/CodeWork-ai/Depart/issues/39
+After submitting a review, the user should remain on the same booking details page, and the ""Give a Review"" option should no longer be displayed.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-17 06:30:28+00:00,2025-10-17 06:30:28+00:00,https://github.com/CodeWork-ai/Depart/issues/39
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggAB34,Issue,Depart,,OTP screen not closing after providing OTP to service provider,"Steps to Reproduce:
 Open to the platform using the  account.
 
@@ -184,7 +184,7 @@ Actual Result:
 After providing the OTP to the service provider from the User tab, the OTP screen still appears. It should instead display the drop location on the screen.
 
 Expected Result:
-After the user provides the OTP to the service provider, the OTP screen should close, and the drop location screen should be displayed.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-17 06:48:49+00:00,2025-10-17 06:48:49+00:00,https://github.com/CodeWork-ai/Depart/issues/40
+After the user provides the OTP to the service provider, the OTP screen should close, and the drop location screen should be displayed.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-17 06:48:49+00:00,2025-10-17 06:48:49+00:00,https://github.com/CodeWork-ai/Depart/issues/40
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggADHM,Issue,Depart,,Skip button cancels ride instead of skipping cancellation,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on Current Booking.
@@ -193,7 +193,7 @@ Actual Result:
 Clicking the Cancel button displays a list, but clicking the Skip button unexpectedly cancels the ride.
 
 Expected Result:
-Clicking the Cancel button should display a list of cancellation reasons. Clicking the Skip button should return the user to the previous screen without canceling the ride.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-17 06:56:53+00:00,2025-10-17 06:56:53+00:00,https://github.com/CodeWork-ai/Depart/issues/41
+Clicking the Cancel button should display a list of cancellation reasons. Clicking the Skip button should return the user to the previous screen without canceling the ride.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-17 06:56:53+00:00,2025-10-17 06:56:53+00:00,https://github.com/CodeWork-ai/Depart/issues/41
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggAr_U,Issue,Depart,,No option to create driver in Service Provider account,"Steps to Reproduce:
 Open to the platform using the Service Provider account.
 
@@ -201,7 +201,7 @@ Actual Result:
 The Service Provider account does not have an option to create a driver.
 
 Expected Result:
-The Service Provider account should have an option to create and add new drivers.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-17 10:47:08+00:00,2025-10-17 10:47:08+00:00,https://github.com/CodeWork-ai/Depart/issues/42
+The Service Provider account should have an option to create and add new drivers.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-17 10:47:08+00:00,2025-10-17 10:47:08+00:00,https://github.com/CodeWork-ai/Depart/issues/42
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggAuQU,Issue,Depart,,Expiry time not updating in Service Provider account after ride booking,"Steps to Reproduce:
 Open to the platform using the Service Provider account.
 
@@ -211,7 +211,7 @@ After a user books a ride, the ride appears in the Service Provider account, but
 Expected Result:
 After a user books a ride, the expiry time shown in the Service Provider account should update dynamically and accurately reflect the remaining time until expiry.
 
-<img width=""359"" height=""800"" alt=""Image"" src=""https://github.com/user-attachments/assets/0e64cd64-2535-4043-9c3f-ddad48b458b6"" />",Roopesh618,suruthisagar97,,,bug,,,,2025-10-17 11:05:27+00:00,2025-10-17 11:05:27+00:00,https://github.com/CodeWork-ai/Depart/issues/43
+<img width=""359"" height=""800"" alt=""Image"" src=""https://github.com/user-attachments/assets/0e64cd64-2535-4043-9c3f-ddad48b458b6"" />",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-17 11:05:27+00:00,2025-10-17 11:05:27+00:00,https://github.com/CodeWork-ai/Depart/issues/43
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf5eEM,Issue,Depart,,Pop-up message needs correction for invalid login credentials,"Steps to Reproduce:
 Sign in to the platform using the  account.
 Click on Login
@@ -222,7 +222,7 @@ When entering wrong credentials and clicking the login button, an error message 
 Expected Result:
 When the user enters incorrect credentials and clicks the Login button, an appropriate error message should be displayed (e.g., ""Invalid username or password. Please try again."") and the pop-up message should display the correct text.
 
-![Image](https://github.com/user-attachments/assets/8b2e6650-f982-49ba-a4c0-28f04c35f453)",Roopesh618,suruthisagar97,,,bug,,,,2025-10-15 06:33:25+00:00,2025-10-27 05:46:36+00:00,https://github.com/CodeWork-ai/Depart/issues/22
+![Image](https://github.com/user-attachments/assets/8b2e6650-f982-49ba-a4c0-28f04c35f453)",Roopesh618,suruthisagar97,In Progress,Normal,bug,,,,2025-10-15 06:33:25+00:00,2025-10-27 05:46:36+00:00,https://github.com/CodeWork-ai/Depart/issues/22
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf5ieI,Issue,Depart,,App bypasses phone verification and opens Service Provider screen on relaunch.,"**Steps to Reproduce :**
 
 Open the Link application – the Home Screen appears.
@@ -253,7 +253,7 @@ After reopening the app, it should resume from the Phone Number Verification pag
 
 Device: Android
 
-OS Version: 15",Roopesh618,Ganesann-Ashokkumarr,,,,,,,2025-10-15 06:59:58+00:00,2025-10-21 19:10:39+00:00,https://github.com/CodeWork-ai/Depart/issues/24
+OS Version: 15",Roopesh618,Ganesann-Ashokkumarr,Development,Normal,,,,,2025-10-15 06:59:58+00:00,2025-10-21 19:10:39+00:00,https://github.com/CodeWork-ai/Depart/issues/24
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggHd5M,Issue,Depart,,View Plans button not working after adding a vehicle.,"Steps to Reproduce:
 Open to the platform using the Service Provider account.
 
@@ -263,7 +263,7 @@ After creating a new account and adding a vehicle, the page redirects to the “
 Expected Result:
 After adding a vehicle, the user should be redirected to the page where they can view and select available plans when clicking the View Plans button.
 
-https://github.com/user-attachments/assets/11bbf207-53f6-48e6-a787-2f845debfd9c",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-21 05:46:11+00:00,2025-10-23 06:18:44+00:00,https://github.com/CodeWork-ai/Depart/issues/52
+https://github.com/user-attachments/assets/11bbf207-53f6-48e6-a787-2f845debfd9c",suruthisagar97,suruthisagar97,Development,Normal,bug,,,,2025-10-21 05:46:11+00:00,2025-10-23 06:18:44+00:00,https://github.com/CodeWork-ai/Depart/issues/52
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf5i8w,Issue,Depart,,App redirects to phone number verification page after reopening without completing KYC,"Steps to Reproduce:
 Sign in to the platform using the  account.
 Click on Register
@@ -276,7 +276,7 @@ After closing the app before completing KYC and reopening it, the app should res
 
 https://github.com/user-attachments/assets/8b0eab46-4008-490b-8693-5b00801101ed
 
-https://github.com/user-attachments/assets/5b133d69-f873-4d18-88c6-9b21a4f58074",Roopesh618,suruthisagar97,,,bug,,,,2025-10-15 07:02:50+00:00,2025-10-23 06:29:33+00:00,https://github.com/CodeWork-ai/Depart/issues/25
+https://github.com/user-attachments/assets/5b133d69-f873-4d18-88c6-9b21a4f58074",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-15 07:02:50+00:00,2025-10-23 06:29:33+00:00,https://github.com/CodeWork-ai/Depart/issues/25
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf6CDw,Issue,Depart,,Entered text in search field appears in white color,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on chat.
@@ -287,7 +287,7 @@ In the search field, when text is entered, it is not displayed properly — the 
 Expected Result:
 When the user enters text in the search field, it should be clearly visible with proper text color (e.g., black or dark color) that contrasts with the background.
 
-![Image](https://github.com/user-attachments/assets/8bce81f6-18c4-4f83-a3ce-35838514f5d9)",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-15 09:33:27+00:00,2025-10-23 06:34:26+00:00,https://github.com/CodeWork-ai/Depart/issues/31
+![Image](https://github.com/user-attachments/assets/8bce81f6-18c4-4f83-a3ce-35838514f5d9)",suruthisagar97,suruthisagar97,Development,Normal,bug,,,,2025-10-15 09:33:27+00:00,2025-10-23 06:34:26+00:00,https://github.com/CodeWork-ai/Depart/issues/31
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggCZWo,Issue,Depart,,Verification blocked due to unusual activity even on first attempt,"**Steps to Reproduce**
 
 Install and launch the app on a mobile device.
@@ -319,7 +319,7 @@ Severely affects user experience.
 Can cause user drop-offs or frustration.
 
 Device : Android Version - 15
-<img width=""347"" height=""692"" alt=""Image"" src=""https://github.com/user-attachments/assets/82c698f6-c21f-4b24-9a43-ddc09de23b60"" />",Roopesh618,Ganesann-Ashokkumarr,,,"bug, Blocker",,,,2025-10-18 06:19:13+00:00,2025-10-21 19:15:38+00:00,https://github.com/CodeWork-ai/Depart/issues/44
+<img width=""347"" height=""692"" alt=""Image"" src=""https://github.com/user-attachments/assets/82c698f6-c21f-4b24-9a43-ddc09de23b60"" />",Roopesh618,Ganesann-Ashokkumarr,Development,Normal,"bug, Blocker",,,,2025-10-18 06:19:13+00:00,2025-10-21 19:15:38+00:00,https://github.com/CodeWork-ai/Depart/issues/44
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf__SU,Issue,Depart,,‘Give a Review’ option reappears after submitting review,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on Booking.
@@ -329,7 +329,7 @@ Actual Result:
 On the Past Booking page, select any past booking. It shows a ""Give a Review"" option. After submitting a review, if you open the same booking again, the ""Give a Review"" option still appears.
 
 Expected Result:
-After submitting a review for a past booking, the ""Give a Review"" option should no longer be displayed when reopening the same booking.",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-17 06:26:58+00:00,2025-10-23 06:38:32+00:00,https://github.com/CodeWork-ai/Depart/issues/38
+After submitting a review for a past booking, the ""Give a Review"" option should no longer be displayed when reopening the same booking.",suruthisagar97,suruthisagar97,Development,Normal,bug,,,,2025-10-17 06:26:58+00:00,2025-10-23 06:38:32+00:00,https://github.com/CodeWork-ai/Depart/issues/38
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf5ZZ4,Issue,Depart,,Incorrect text on signup screen: “Don’t have an account? login”,"Steps to Reproduce:
 Sign up to the platform using the  account.
 
@@ -339,7 +339,7 @@ On the signup screen, the text ""Don't have an account? login"" is displayed inc
 Expected Result:
 On the signup screen, the text """"Already have an account? Log in"" is displayed correctly.
 
-<img width=""359"" height=""800"" alt=""Image"" src=""https://github.com/user-attachments/assets/41a70bf2-2e64-48b0-9f84-318c6628dff3"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-15 05:58:54+00:00,2025-10-23 06:40:07+00:00,https://github.com/CodeWork-ai/Depart/issues/20
+<img width=""359"" height=""800"" alt=""Image"" src=""https://github.com/user-attachments/assets/41a70bf2-2e64-48b0-9f84-318c6628dff3"" />",suruthisagar97,suruthisagar97,Development,Normal,bug,,,,2025-10-15 05:58:54+00:00,2025-10-23 06:40:07+00:00,https://github.com/CodeWork-ai/Depart/issues/20
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf8nt0,Issue,Depart,,User Profile functionality not working properly,"Steps to Reproduce:
 Open to the platform using the  account.
 Click on User Profile.
@@ -348,7 +348,7 @@ Actual Result:
 All functionality in the User Profile is not working properly.
 
 Expected Result:
-All User Profile functionality should work properly.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-16 06:01:07+00:00,2025-10-23 06:42:04+00:00,https://github.com/CodeWork-ai/Depart/issues/36
+All User Profile functionality should work properly.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-16 06:01:07+00:00,2025-10-23 06:42:04+00:00,https://github.com/CodeWork-ai/Depart/issues/36
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozgf6P8w,Issue,Depart,,"Car number, price, date, and driver name not displayed in Details section (fields appear empty)","Steps to Reproduce:
 Open to the platform using the  account.
 Click on Booking.
@@ -359,7 +359,7 @@ In the Details section, the car number, price, date, and driver name are not dis
 Expected Result:
 In the Details section, the car number, price, date, and driver name should be correctly displayed on the screen with their respective values. No fields should appear empty.
 
-![Image](https://github.com/user-attachments/assets/fd888027-68c9-4fac-ab0f-d6ca9c9483c7)",Roopesh618,suruthisagar97,,,bug,,,,2025-10-15 10:42:04+00:00,2025-10-23 06:43:50+00:00,https://github.com/CodeWork-ai/Depart/issues/34
+![Image](https://github.com/user-attachments/assets/fd888027-68c9-4fac-ab0f-d6ca9c9483c7)",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-15 10:42:04+00:00,2025-10-23 06:43:50+00:00,https://github.com/CodeWork-ai/Depart/issues/34
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggHgxM,Issue,Depart,,Clicking the profile icon redirects to the home screen instead of the profile page.,"Steps to Reproduce:
 Open to the platform using the Service Provider account.
 
@@ -367,7 +367,7 @@ Actual Result:
 When clicking the profile icon, it redirects to the home screen.
 
 Expected Result:
-Clicking the profile icon should redirect the user to their profile page, not the home screen.",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-21 06:02:21+00:00,2025-10-23 06:47:23+00:00,https://github.com/CodeWork-ai/Depart/issues/53
+Clicking the profile icon should redirect the user to their profile page, not the home screen.",suruthisagar97,suruthisagar97,Development,Normal,bug,,,,2025-10-21 06:02:21+00:00,2025-10-23 06:47:23+00:00,https://github.com/CodeWork-ai/Depart/issues/53
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggHlHw,Issue,Depart,,Clicking the notification icon does not trigger any action.,"Steps to Reproduce:
 Open to the platform using the Service Provider account.
 
@@ -375,7 +375,7 @@ Actual Result:
 When clicking the notification icon, it does not work.
 
 Expected Result:
-Clicking the notification icon should display the notifications or redirect the user to the notifications page.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-21 06:33:46+00:00,2025-10-21 06:33:46+00:00,https://github.com/CodeWork-ai/Depart/issues/54
+Clicking the notification icon should display the notifications or redirect the user to the notifications page.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-21 06:33:46+00:00,2025-10-21 06:33:46+00:00,https://github.com/CodeWork-ai/Depart/issues/54
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggHpP0,Issue,Depart,,The notification icon is missing from the screen.,"Steps to Reproduce:
 Open to the platform using the User account.
 
@@ -383,7 +383,7 @@ Actual Result:
 The notification icon is missing from the screen.
 
 Expected Result:
-The notification icon should be visible on the screen.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-21 07:01:10+00:00,2025-10-21 07:01:10+00:00,https://github.com/CodeWork-ai/Depart/issues/55
+The notification icon should be visible on the screen.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-21 07:01:10+00:00,2025-10-21 07:01:10+00:00,https://github.com/CodeWork-ai/Depart/issues/55
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggH2JM,Issue,Depart,,Unable to create a second account using Gmail; redirects to the home screen.,"Steps to Reproduce:
 Open to the platform using the Service Provider account.
 Click on Gmail 
@@ -391,7 +391,7 @@ Actual Result:
 When creating an account using Gmail, it is not possible to create a second account as it redirects to the home screen.
 
 Expected Result:
-After creating an account using Gmail, the user should be able to create a second account without being redirected to the home screen.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-21 08:14:19+00:00,2025-10-21 08:14:19+00:00,https://github.com/CodeWork-ai/Depart/issues/57
+After creating an account using Gmail, the user should be able to create a second account without being redirected to the home screen.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-21 08:14:19+00:00,2025-10-21 08:14:19+00:00,https://github.com/CodeWork-ai/Depart/issues/57
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggN3oY,Issue,Depart,,"Clicking ""My Subscription"" redirects to the wrong page.","Steps to Reproduce:
 Open to the platform using the Service Provider account.
 Click on Profile.
@@ -401,7 +401,7 @@ Actual Result:
 When clicking 'My Subscription,' it redirects to the 'Choose a Plan' page instead of the 'My Subscription' page.
 
 Expected Result:
-When clicking ""My Subscription,"" the user should be directed to the ""My Subscription"" page, not the ""Choose a Plan"" page.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-23 05:26:04+00:00,2025-10-23 05:26:04+00:00,https://github.com/CodeWork-ai/Depart/issues/58
+When clicking ""My Subscription,"" the user should be directed to the ""My Subscription"" page, not the ""Choose a Plan"" page.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 05:26:04+00:00,2025-10-23 05:26:04+00:00,https://github.com/CodeWork-ai/Depart/issues/58
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggN5Cs,Issue,Depart,,The 'My Subscription' and 'Plans' pages do not display the proper UI response.,"Steps to Reproduce:
 Open to the platform using the Service Provider account.
 Click on Profile.
@@ -413,7 +413,7 @@ The 'My Subscription' and 'Plans' pages do not display proper UI response on the
 Expected Result:
 The 'My Subscription' and 'Plans' pages should display the proper UI response on the screen.
 
-![Image](https://github.com/user-attachments/assets/1c1deac0-1a08-4ae1-8a71-55c69eac482d)",Roopesh618,suruthisagar97,,,bug,,,,2025-10-23 05:39:14+00:00,2025-10-23 05:39:14+00:00,https://github.com/CodeWork-ai/Depart/issues/59
+![Image](https://github.com/user-attachments/assets/1c1deac0-1a08-4ae1-8a71-55c69eac482d)",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 05:39:14+00:00,2025-10-23 05:39:14+00:00,https://github.com/CodeWork-ai/Depart/issues/59
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggOCjY,Issue,Depart,,Admin can approve KYC and activate the driver without completing verification.,"Steps to Reproduce:
 Open to the platform using the Admin account.
 Click on Drivers.
@@ -426,7 +426,7 @@ The admin should not be able to approve the KYC or activate the driver without c
 
 Role: Admin
 
-https://github.com/user-attachments/assets/d355072d-bbb7-4e9e-b86f-c11710ad745e",xavierrnelson,suruthisagar97,,,bug,,,,2025-10-23 06:54:55+00:00,2025-10-23 06:54:55+00:00,https://github.com/CodeWork-ai/Depart/issues/60
+https://github.com/user-attachments/assets/d355072d-bbb7-4e9e-b86f-c11710ad745e",xavierrnelson,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 06:54:55+00:00,2025-10-23 06:54:55+00:00,https://github.com/CodeWork-ai/Depart/issues/60
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggOaYk,Issue,Depart,,User cannot make a call or message after accepting a ride.,"Steps to Reproduce:
 Log in to the platform using the User account.
 Click on Bookings.
@@ -437,7 +437,7 @@ In the current booking page, after accepting a ride from the service provider, t
 Expected Result:
 After accepting a ride from the service provider, the user should be able to make a call or send a message.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-23 09:04:57+00:00,2025-10-23 09:04:57+00:00,https://github.com/CodeWork-ai/Depart/issues/61
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 09:04:57+00:00,2025-10-23 09:04:57+00:00,https://github.com/CodeWork-ai/Depart/issues/61
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggOcYQ,Issue,Depart,,"User cancels the ride, but the booking isn’t canceled and redirects to the pickup page.","Steps to Reproduce:
 Log in to the platform using the User account.
 Click on Bookings.
@@ -450,7 +450,7 @@ If the user cancels the ride on the service provider's page, the booking should 
 
 Env: DEV
 
-![Image](https://github.com/user-attachments/assets/072b548d-e3cc-46d8-8e3e-4d89a52f2a33)",Roopesh618,suruthisagar97,,,bug,,,,2025-10-23 09:14:41+00:00,2025-10-23 09:14:41+00:00,https://github.com/CodeWork-ai/Depart/issues/62
+![Image](https://github.com/user-attachments/assets/072b548d-e3cc-46d8-8e3e-4d89a52f2a33)",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 09:14:41+00:00,2025-10-23 09:14:41+00:00,https://github.com/CodeWork-ai/Depart/issues/62
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggOjeY,Issue,Depart,,Profile images do not display properly when clicking on the user or driver profile.,"Steps to Reproduce:
 Log in to the platform using the User account.
 
@@ -462,7 +462,7 @@ The user and driver profile images should display properly when clicked on the p
 
 Env: DEV
 
-![Image](https://github.com/user-attachments/assets/653878b7-5070-4e11-8a60-a8e92f202b97)",Roopesh618,suruthisagar97,,,bug,,,,2025-10-23 09:46:53+00:00,2025-10-23 09:46:53+00:00,https://github.com/CodeWork-ai/Depart/issues/63
+![Image](https://github.com/user-attachments/assets/653878b7-5070-4e11-8a60-a8e92f202b97)",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 09:46:53+00:00,2025-10-23 09:46:53+00:00,https://github.com/CodeWork-ai/Depart/issues/63
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggOmp0,Issue,Depart,,User doesn't get a notification when the service provider arrives.,"Steps to Reproduce:
 Log in to the platform using the User account.
 
@@ -473,7 +473,7 @@ After the service provider reaches the user's location, the user does not receiv
 Expected Result:
 The user should receive a notification on their mobile when the service provider reaches their location.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-23 10:03:28+00:00,2025-10-23 10:03:28+00:00,https://github.com/CodeWork-ai/Depart/issues/64
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 10:03:28+00:00,2025-10-23 10:03:28+00:00,https://github.com/CodeWork-ai/Depart/issues/64
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggOo50,Issue,Depart,,User profile is not displayed in the account.,"Steps to Reproduce:
 Log in to the platform using the User or Service Provider account.
 
@@ -483,7 +483,7 @@ User profile is not displayed in the account.
 Expected Result:
 The user profile should be displayed in the account.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-23 10:15:31+00:00,2025-10-23 10:15:31+00:00,https://github.com/CodeWork-ai/Depart/issues/65
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 10:15:31+00:00,2025-10-23 10:15:31+00:00,https://github.com/CodeWork-ai/Depart/issues/65
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggOpnM,Issue,Depart,,Pagination is missing on the feedback page.,"Steps to Reproduce:
 Open to the platform using the Admin account.
 Click on Feedback.
@@ -493,7 +493,7 @@ Pagination is missing from the feedback page.
 Expected Result:
 Pagination should be present on the feedback page.
 
-Role: Admin",xavierrnelson,suruthisagar97,,,bug,,,,2025-10-23 10:20:19+00:00,2025-10-23 10:20:19+00:00,https://github.com/CodeWork-ai/Depart/issues/66
+Role: Admin",xavierrnelson,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 10:20:19+00:00,2025-10-23 10:20:19+00:00,https://github.com/CodeWork-ai/Depart/issues/66
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggOvT8,Issue,Depart,,Account can still log in with the same email ID after deactivating the driver and vehicle.,"Steps to Reproduce:
 Open to the platform using the Admin account.
 Click on Driver.
@@ -502,7 +502,7 @@ Actual Result:
 After deactivating the driver and the vehicle from the admin team using the same email ID, the account will still be able to log in.
 
 Expected Result:
-After deactivating the driver and vehicle, the account should not be able to log in using the same email ID.",Roopesh618,suruthisagar97,,,bug,,,,2025-10-23 10:57:27+00:00,2025-10-23 10:57:27+00:00,https://github.com/CodeWork-ai/Depart/issues/67
+After deactivating the driver and vehicle, the account should not be able to log in using the same email ID.",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 10:57:27+00:00,2025-10-23 10:57:27+00:00,https://github.com/CodeWork-ai/Depart/issues/67
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggOv5A,Issue,Depart,,Recent updates from any user do not appear at the top of the table.,"Steps to Reproduce:
 Open to the platform using the Admin account.
 Click on Driver.
@@ -511,7 +511,7 @@ Actual Result:
 Recent updates from any user do not appear at the top of the table.
 
 Expected Result:
-Recent updates from any user should appear at the top of the table.",xavierrnelson,suruthisagar97,,,bug,,,,2025-10-23 11:01:33+00:00,2025-10-23 11:01:33+00:00,https://github.com/CodeWork-ai/Depart/issues/68
+Recent updates from any user should appear at the top of the table.",xavierrnelson,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 11:01:33+00:00,2025-10-23 11:01:33+00:00,https://github.com/CodeWork-ai/Depart/issues/68
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggOzdY,Issue,Depart,,"""Skip for Now"" button does not work on the home screen.","Steps to Reproduce:
 Log in to the platform using the Service Provider account.
 
@@ -523,7 +523,7 @@ Clicking the ""Skip for Now"" button should work and proceed as expected.
 
 Env: DEV
 
-![Image](https://github.com/user-attachments/assets/8c19045d-37c7-4901-a57f-580a1770ea43)",Roopesh618,suruthisagar97,,,bug,,,,2025-10-23 11:26:45+00:00,2025-10-23 11:26:45+00:00,https://github.com/CodeWork-ai/Depart/issues/69
+![Image](https://github.com/user-attachments/assets/8c19045d-37c7-4901-a57f-580a1770ea43)",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 11:26:45+00:00,2025-10-23 11:26:45+00:00,https://github.com/CodeWork-ai/Depart/issues/69
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggO1fY,Issue,Depart,,"End date shows as N/A, and status shows as expired in the subscription list.","Steps to Reproduce:
 Open to the platform using the Admin account.
 Click on Plans.
@@ -534,7 +534,7 @@ In the subscription list, the end date shows as N/A, and the status shows as exp
 Expected Result:
 The end date should display correctly, and the status should reflect the accurate subscription status, not ""Expired"" if it's still active.
 
-<img width=""1476"" height=""830"" alt=""Image"" src=""https://github.com/user-attachments/assets/ee52bf77-f76c-42de-ae39-9cd23cf5c1c6"" />",xavierrnelson,suruthisagar97,,,bug,,,,2025-10-23 11:40:00+00:00,2025-10-23 11:40:00+00:00,https://github.com/CodeWork-ai/Depart/issues/70
+<img width=""1476"" height=""830"" alt=""Image"" src=""https://github.com/user-attachments/assets/ee52bf77-f76c-42de-ae39-9cd23cf5c1c6"" />",xavierrnelson,suruthisagar97,Todo,Normal,bug,,,,2025-10-23 11:40:00+00:00,2025-10-23 11:40:00+00:00,https://github.com/CodeWork-ai/Depart/issues/70
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggRFs0,Issue,Depart,,White screen appears after clicking “Map.”,"Steps to Reproduce:
 Log in to the platform using the User account.
 
@@ -546,7 +546,7 @@ After clicking “Confirm Ride,” the app should display available vehicle type
 
 Env: DEV
 
-https://github.com/user-attachments/assets/030b0924-c95b-4694-b1e3-304c47ee9ff4",Roopesh618,suruthisagar97,,,bug,,,,2025-10-24 05:27:57+00:00,2025-10-24 05:27:57+00:00,https://github.com/CodeWork-ai/Depart/issues/71
+https://github.com/user-attachments/assets/030b0924-c95b-4694-b1e3-304c47ee9ff4",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-24 05:27:57+00:00,2025-10-24 05:27:57+00:00,https://github.com/CodeWork-ai/Depart/issues/71
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggRP7U,Issue,Depart,,App closes after swiping and pressing back on the Select Vehicle page.,"Steps to Reproduce:
 Log in to the platform using the User account.
 
@@ -556,7 +556,7 @@ On the Set Availability page, when clicking Add Vehicle, it redirects to the Sel
 Expected Result:
 After clicking Add Vehicle on the Set Availability page and navigating to the Select Vehicle page, the user should be able to swipe left or right and press the back button without the application closing. The app should return to the Set Availability page normally.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-24 06:52:40+00:00,2025-10-24 06:52:40+00:00,https://github.com/CodeWork-ai/Depart/issues/72
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-24 06:52:40+00:00,2025-10-24 06:52:40+00:00,https://github.com/CodeWork-ai/Depart/issues/72
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggRU3I,Issue,Depart,,Date format needs to be updated on all pages.,"Steps to Reproduce:
 Open to the platform using the Admin account.
 
@@ -566,7 +566,7 @@ The date format is inconsistent across all pages and needs to be updated.
 Expected Result:
 The date format should be consistent and correctly updated across all pages.
 
-Env: DEV",xavierrnelson,suruthisagar97,,,bug,,,,2025-10-24 07:26:38+00:00,2025-10-24 07:26:38+00:00,https://github.com/CodeWork-ai/Depart/issues/73
+Env: DEV",xavierrnelson,suruthisagar97,Todo,Normal,bug,,,,2025-10-24 07:26:38+00:00,2025-10-24 07:26:38+00:00,https://github.com/CodeWork-ai/Depart/issues/73
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggRVtk,Issue,Depart,,Feedback page UI is not responsive.,"Steps to Reproduce:
 Open to the platform using the Admin account.
 Click on Feedback.
@@ -579,7 +579,7 @@ The Feedback page should display a proper and responsive UI layout on the screen
 
 Env: DEV
 
-<img width=""1919"" height=""884"" alt=""Image"" src=""https://github.com/user-attachments/assets/19d7cc9a-c779-4837-b022-33ef2b036eb0"" />",xavierrnelson,suruthisagar97,,,bug,,,,2025-10-24 07:31:28+00:00,2025-10-24 07:31:28+00:00,https://github.com/CodeWork-ai/Depart/issues/74
+<img width=""1919"" height=""884"" alt=""Image"" src=""https://github.com/user-attachments/assets/19d7cc9a-c779-4837-b022-33ef2b036eb0"" />",xavierrnelson,suruthisagar97,Todo,Normal,bug,,,,2025-10-24 07:31:28+00:00,2025-10-24 07:31:28+00:00,https://github.com/CodeWork-ai/Depart/issues/74
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggRpJM,Issue,Depart,,No option to clear filters after searching on the Filter page.,"Steps to Reproduce:
 Open to the platform using the Admin account.
 Click on Drivers.
@@ -590,7 +590,7 @@ After performing a search on the Filter page, there is no option available to cl
 Expected Result:
 After performing a search on the Filter page, the user should see a Clear Filters option to remove all applied filters.
 
-Env: DEV",xavierrnelson,suruthisagar97,,,bug,,,,2025-10-24 09:16:21+00:00,2025-10-24 09:16:21+00:00,https://github.com/CodeWork-ai/Depart/issues/75
+Env: DEV",xavierrnelson,suruthisagar97,Todo,Normal,bug,,,,2025-10-24 09:16:21+00:00,2025-10-24 09:16:21+00:00,https://github.com/CodeWork-ai/Depart/issues/75
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggRvMs,Issue,Depart,,Dropdown format in All Plans field under Filter column needs to be updated.,"Steps to Reproduce:
 Open to the platform using the Admin account.
 Click on Plans & Subscriptions.
@@ -603,7 +603,7 @@ The dropdown list format in the All Plans field under the Filter column should b
 
 Env: DEV
 
-<img width=""1919"" height=""878"" alt=""Image"" src=""https://github.com/user-attachments/assets/d5d5cc92-67df-4854-8383-fe3f729de9b9"" />",xavierrnelson,suruthisagar97,,,bug,,,,2025-10-24 09:49:08+00:00,2025-10-24 09:49:08+00:00,https://github.com/CodeWork-ai/Depart/issues/76
+<img width=""1919"" height=""878"" alt=""Image"" src=""https://github.com/user-attachments/assets/d5d5cc92-67df-4854-8383-fe3f729de9b9"" />",xavierrnelson,suruthisagar97,Todo,Normal,bug,,,,2025-10-24 09:49:08+00:00,2025-10-24 09:49:08+00:00,https://github.com/CodeWork-ai/Depart/issues/76
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggRwtI,Issue,Depart,,“No data found” message missing in Filter column.,"Steps to Reproduce:
 Open to the platform using the Admin account.
 Click on Drivers.
@@ -616,7 +616,7 @@ When a search in the Filter column returns 0 results, a message such as “No da
 
 Env: DEV
 
-<img width=""1919"" height=""870"" alt=""Image"" src=""https://github.com/user-attachments/assets/b7c8100b-b94f-4a47-ae1c-1263e5afeec4"" />",xavierrnelson,suruthisagar97,,,bug,,,,2025-10-24 09:57:18+00:00,2025-10-24 09:57:18+00:00,https://github.com/CodeWork-ai/Depart/issues/77
+<img width=""1919"" height=""870"" alt=""Image"" src=""https://github.com/user-attachments/assets/b7c8100b-b94f-4a47-ae1c-1263e5afeec4"" />",xavierrnelson,suruthisagar97,Todo,Normal,bug,,,,2025-10-24 09:57:18+00:00,2025-10-24 09:57:18+00:00,https://github.com/CodeWork-ai/Depart/issues/77
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggR4HY,Issue,Depart,,KYC documents not downloading to local system.,"Steps to Reproduce:
 Open to the platform using the Admin account.
 Click on Drivers.
@@ -627,7 +627,7 @@ KYC documents do not download to the local system after clicking the download bu
 Expected Result:
 After clicking the download button under KYC documents, the selected documents should successfully download to the local system.
 
-Env: DEV",xavierrnelson,suruthisagar97,,,bug,,,,2025-10-24 10:43:09+00:00,2025-10-24 10:43:09+00:00,https://github.com/CodeWork-ai/Depart/issues/78
+Env: DEV",xavierrnelson,suruthisagar97,Todo,Normal,bug,,,,2025-10-24 10:43:09+00:00,2025-10-24 10:43:09+00:00,https://github.com/CodeWork-ai/Depart/issues/78
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggWOVU,Issue,Depart,,Reset page shows only “New password”; “Confirm password” missing—should show both and require match.,"Steps to Reproduce:
 Log in to the platform using the Service Provider account.
 Click on Forgot Password?.
@@ -640,7 +640,7 @@ After clicking the reset link, the Reset your password page displays both New pa
 
 Env: DEV
 
-<img width=""1919"" height=""867"" alt=""Image"" src=""https://github.com/user-attachments/assets/fee574cd-6c37-4702-b2f2-5a301203976f"" />",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 05:18:13+00:00,2025-10-27 05:18:13+00:00,https://github.com/CodeWork-ai/Depart/issues/79
+<img width=""1919"" height=""867"" alt=""Image"" src=""https://github.com/user-attachments/assets/fee574cd-6c37-4702-b2f2-5a301203976f"" />",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 05:18:13+00:00,2025-10-27 05:18:13+00:00,https://github.com/CodeWork-ai/Depart/issues/79
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggWO0o,Issue,Depart,,Reset password links do not expire.,"Steps to Reproduce:
 Log in to the platform using the Service Provider account.
 Click on Forgot Password?.
@@ -651,7 +651,7 @@ The reset password link has no expiry time
 Expected Result:
 The reset password link should expire after a defined time (e.g., 15–60 minutes) and be single-use. Expired/used links show a clear “Link expired” message with an option to request a new link.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 05:23:14+00:00,2025-10-27 05:23:14+00:00,https://github.com/CodeWork-ai/Depart/issues/80
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 05:23:14+00:00,2025-10-27 05:23:14+00:00,https://github.com/CodeWork-ai/Depart/issues/80
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggWTzw,Issue,Depart,,"Clicking Cancel shows suggested questions, but the same set appears for both roles.","Steps to Reproduce:
 Log in to the platform using the Service Provider account.
 Click on Current booking.
@@ -663,7 +663,7 @@ In the Service Provider account, clicking the Cancel button shows some suggested
 Expected Result:
 In a Service Provider account, clicking the Cancel button shows suggested questions. Different questions should be shown for the User and Service Provider roles.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 06:13:40+00:00,2025-10-27 06:13:40+00:00,https://github.com/CodeWork-ai/Depart/issues/81
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 06:13:40+00:00,2025-10-27 06:13:40+00:00,https://github.com/CodeWork-ai/Depart/issues/81
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggWUz4,Issue,Depart,,"After accepting an order, the flow skips Arrived and goes straight to Enter OTP.","Steps to Reproduce:
 Log in to the platform using the Service Provider account.
 
@@ -673,7 +673,7 @@ After accepting an order from the user, the app goes directly to the Enter OTP p
 Expected Result:
 After accepting an order, the app should require tapping “Arrived” before allowing access to the Enter OTP page. If the provider tries to proceed earlier, show a prompt (e.g., “Please tap Arrived to continue.”).
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 06:22:59+00:00,2025-10-27 06:22:59+00:00,https://github.com/CodeWork-ai/Depart/issues/82
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 06:22:59+00:00,2025-10-27 06:22:59+00:00,https://github.com/CodeWork-ai/Depart/issues/82
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggWVyw,Issue,Depart,,Current Booking → tapping Message/Call doesn’t notify the Service Provider,"Steps to Reproduce:
 Log in to the platform using the Service Provider account.
 Click on Bookings.
@@ -685,7 +685,7 @@ On the Current Booking page, when the user taps the Message or Call icon, the Se
 Expected Result:
 When the user taps Message or Call on the Current Booking page, the Service Provider account receives a notification immediately.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 06:30:21+00:00,2025-10-27 06:30:21+00:00,https://github.com/CodeWork-ai/Depart/issues/83
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 06:30:21+00:00,2025-10-27 06:30:21+00:00,https://github.com/CodeWork-ai/Depart/issues/83
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggWWRY,Issue,Depart,,"When the Service Provider taps “Arrived”, the User does not receive a notification.","Steps to Reproduce:
 Log in to the platform using the User account.
 
@@ -695,7 +695,7 @@ After the Service Provider clicks the “Arrived” button, the User account doe
 Expected Result:
 When the Service Provider taps “Arrived”, the User immediately receives a notification.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 06:34:24+00:00,2025-10-27 06:34:24+00:00,https://github.com/CodeWork-ai/Depart/issues/84
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 06:34:24+00:00,2025-10-27 06:34:24+00:00,https://github.com/CodeWork-ai/Depart/issues/84
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggWZEA,Issue,Depart,,Post-OTP: route shows current location → drop-off (should be pickup → drop-off); map doesn’t recenter to both pins.,"Steps to Reproduce:
 Log in to the platform using the User account.
 
@@ -705,7 +705,7 @@ In the User account, after the OTP is provided to the Service Provider, the map 
 Expected Result:
 After OTP verification, the map recenters to show pickup → drop-off with both pins visible and the route highlighted.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 06:55:50+00:00,2025-10-27 06:55:50+00:00,https://github.com/CodeWork-ai/Depart/issues/85
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 06:55:50+00:00,2025-10-27 06:55:50+00:00,https://github.com/CodeWork-ai/Depart/issues/85
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggWbls,Issue,Depart,,Number field: Save Changes should accept inputs with fewer than 10 digits (no validation error),"Steps to Reproduce:
 Log in to the platform using the User account.
 Click on Profile.
@@ -717,7 +717,7 @@ When fewer than 10 digits are entered in the Number field, clicking “Save Chan
 Expected Result:
 If the Number field has fewer than 10 digits, clicking “Save Changes” should block submission and display a pop-up error message.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 07:13:26+00:00,2025-10-27 07:13:26+00:00,https://github.com/CodeWork-ai/Depart/issues/86
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 07:13:26+00:00,2025-10-27 07:13:26+00:00,https://github.com/CodeWork-ai/Depart/issues/86
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggW0J8,Issue,Depart,,"Post-OTP, status shows “Driver is on the way” instead of “Ride Started.”","Steps to Reproduce:
 Log in to the platform using the User account.
 
@@ -727,7 +727,7 @@ er providing the OTP to the Service Provider, the ride starts, but the text on t
 Expected Result:
 Once the ride begins post-OTP verification, the app should display “Ride Started” on the user’s screen.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 09:19:11+00:00,2025-10-27 09:19:11+00:00,https://github.com/CodeWork-ai/Depart/issues/87
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 09:19:11+00:00,2025-10-27 09:19:11+00:00,https://github.com/CodeWork-ai/Depart/issues/87
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggW-BI,Issue,Depart,,Latest feedback not displayed at the top of the table on the Feedback page.,"Steps to Reproduce:
 Open to the platform using the Service Provider account.
 Click on Customer Feedback.
@@ -738,7 +738,7 @@ Latest feedback not showing at top of table on Feedback page.
 Expected Result:
 Newly submitted feedback should be displayed first (topmost) in the feedback list/table.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 09:55:16+00:00,2025-10-27 09:55:16+00:00,https://github.com/CodeWork-ai/Depart/issues/88
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 09:55:16+00:00,2025-10-27 09:55:16+00:00,https://github.com/CodeWork-ai/Depart/issues/88
 CodeWork-ai,Depart,9,PVTI_lADOCzkvuc4A-hlozggXG9c,Issue,Depart,,Account creation via Apple or Facebook login fails; should allow successful sign-up.,"Steps to Reproduce:
 Open to the platform using the Service Provider account.
 Click Apple or Facebook.
@@ -749,4 +749,4 @@ Account creation via Apple or Facebook login not working.
 Expected Result:
 Users should be able to sign up seamlessly using their Apple or Facebook accounts.
 
-Env: DEV",Roopesh618,suruthisagar97,,,bug,,,,2025-10-27 10:32:15+00:00,2025-10-27 10:32:15+00:00,https://github.com/CodeWork-ai/Depart/issues/89
+Env: DEV",Roopesh618,suruthisagar97,Todo,Normal,bug,,,,2025-10-27 10:32:15+00:00,2025-10-27 10:32:15+00:00,https://github.com/CodeWork-ai/Depart/issues/89
