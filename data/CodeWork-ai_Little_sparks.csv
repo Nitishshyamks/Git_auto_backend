@@ -1,0 +1,2273 @@
+organization,project_name,project_number,project_item_id,item_type,repo,issue_pr_number,task_title,task_description,assignees,assigned_by,status,priority,labels,milestone,iteration,due_date,created_at,updated_at,url
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge4Ojw,Issue,Little-sparks,,"Check-in button enabled for previous months, records current time","Steps to Reproduce:
+Log in to the platform using the center head account.
+Click on Calendar.
+Click on My attendance.
+
+Actual Result:
+Once checked in on the current date, the current time is recorded. When selecting a previous month, the check-in button becomes enabled, and clicking it shows the current check-in time.
+
+Expected Result:
+Once checked in on the current date, the current time is recorded. When selecting a previous month, the check-in button should be disabled.
+
+Env: DEV
+
+<!-- Failed to upload ""MicrosoftTeams-video (39).mp4"" -->",Maharajacodework,suruthisagar97,,,bug,,,,2025-09-18 06:18:16+00:00,2025-09-18 06:18:16+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/192
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdEAUM,Issue,Little-sparks,,Slot Booking module (Payment)- Mobile app,"Description:
+
+Develop a slot booking system that allows users to reserve available time slots for a service or event.
+
+- Slot Selection: Users can view available time slots for a given date and service.
+- Booking Process: Users can select a time slot, provide necessary details, and confirm the booking.
+- Availability Management: Admins can set and modify available slots.
+- Notifications: Users receive confirmation of booking and reminders.
+- Cancel/Reschedule: Users can cancel or reschedule bookings based on availability.
+- Payment: Parents can see the amount per slot while booking the slot",Maharajacodework,sharonss0809,,,Development,,,,2025-07-29 06:12:57+00:00,2025-08-28 05:48:09+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/44
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge7cBQ,Issue,Little-sparks,,Search placeholder size inconsistent with Android.,"Steps to Reproduce:
+Log in to the platform using the center head account.
+
+Actual Result:
+When clicking the search icon, the placeholder is smaller compared to Android.
+
+Expected Result:
+When clicking the search icon, the placeholder size should be consistent with Android.
+
+Mobile: iOS
+
+![Image](https://github.com/user-attachments/assets/b8d7f136-58c3-4f11-85ca-6e0731e1882a)",Maharajacodework,suruthisagar97,,,bug,,,,2025-09-19 07:38:22+00:00,2025-10-09 11:07:17+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/198
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge7bHo,Issue,Little-sparks,,White screen appears above keyboard after clicking search icon.,"Steps to Reproduce:
+Log in to the platform using the center head or Parents account.
+
+Actual Result:
+When clicking the search icon, the keyboard is enabled, and a white screen is displayed above the keyboard.
+
+Expected Result:
+When clicking the search icon, the keyboard should open without displaying any white screen above it.
+
+Mobile: iOS
+
+![Image](https://github.com/user-attachments/assets/e89ee15c-c11d-46cd-843a-4f95194679fe)",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-19 07:32:34+00:00,2025-10-09 11:04:54+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/197
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge7Uig,Issue,Little-sparks,,Navigation not working after student selection.,"Steps to Reproduce:
+Log in to the platform using the center head account.
+Click on Activities.
+Click on General Activities.
+
+
+Actual Result:
+When selecting any student and clicking the back button or swiping left or right, it does not work on the screen.
+
+Expected Result:
+After selecting a student, clicking the back button or swiping left/right should navigate back or switch screens correctly.
+
+Mobile: iOS",Maharajacodework,suruthisagar97,,,bug,,,,2025-09-19 06:48:41+00:00,2025-10-09 11:09:37+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/195
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgfALQQ,Issue,Little-sparks,,Profile header not displayed properly on screen.,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on Profile.
+
+Actual Result:
+When clicking on the profile, the header is not displayed properly on the screen.
+
+Expected Result:
+When clicking on the profile, the header should be displayed properly on the screen.
+
+Mobile: iOS
+
+![Image](https://github.com/user-attachments/assets/11e665f5-3c3c-4a85-b9b3-e535639ff216)",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-22 09:18:49+00:00,2025-09-24 10:14:27+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/204
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge7RoY,Issue,Little-sparks,,Inconsistent placeholders on login screen.,"Steps to Reproduce:
+Log in to the platform using the Parents account.
+
+Actual Result:
+On the login screen, the Email and Password placeholders are not the same.
+
+Expected Result:
+On the login screen, the Email and Password placeholders should be consistent and aligned.
+
+Mobile: iOS
+
+![Image](https://github.com/user-attachments/assets/93eb128a-5f86-44b4-a91a-91b776732de6)",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-19 06:27:18+00:00,2025-09-24 10:10:55+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/194
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgek3qs,Issue,Little-sparks,,Chat with centre head not working — text box keeps loading.,"Steps to Reproduce:
+Log in to the platform using the Parents account.
+Click on Connect and Click Chat.
+
+Actual Result:
+I’m unable to chat with the centre head; the text box just keeps loading.
+
+Expected Result:
+The chat with the centre head should open, and the text box should allow me to type and send messages without any loading issues.
+
+Env: Mobile
+
+https://github.com/user-attachments/assets/be0b47b2-01b8-479e-8f47-5d4c165ea012",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-10 09:00:52+00:00,2025-09-18 06:49:01+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/189
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeOyNA,Issue,Little-sparks,,Milestones - Mobile Application (frontend),"Milestones – Key goals that represent major achievements or deliverables.
+
+The purpose of this structure is to clearly separate long-term objectives, recurring/general work, and daily execution, making it easier to monitor progress and stay accountable.",suruthisagar97,Keerthicodework,,,Development,,,,2025-09-01 10:19:57+00:00,2025-09-12 05:03:53+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/169
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeiK6s,Issue,Little-sparks,,Chat opens to a middle message instead of the latest one.,"Steps to Reproduce:
+Log in to the platform using the Parents account.
+Click on Connect.
+Click on Chat.
+
+Actual Result:
+When I open the chat, it doesn't show the latest message; instead, it shows a message in the middle of the screen.
+
+Expected Result:
+When I open the chat, the latest message should appear, not a message from the middle of the screen.
+
+Env: Mobile
+
+https://github.com/user-attachments/assets/a0b97343-ff50-4f72-aa82-5c4519954b9b",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-09 11:24:02+00:00,2025-09-12 04:40:42+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/188
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeQ6wg,Issue,Little-sparks,,Feedback History (FE) - Parent (Mobile application),"When a Superadmin replies to any feedback, the reply is automatically pushed to the Parent Feedback section, ensuring that parents are aware of the updates or clarifications provided by the superadmin.
+
+This keeps parents in the loop, making sure they are aware of any follow-ups or steps taken to address their concerns.",suruthisagar97,Keerthicodework,,,Development,,,,2025-09-02 07:43:28+00:00,2025-09-12 04:33:17+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/171
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeePTs,Issue,Little-sparks,,Text overlap in No Attendance Records screen,"Steps to Reproduce:
+Log in to the platform using the Parents account.
+Click on Calendar.
+Click on My Attendance.
+
+Actual Result:
+Clicking the previous month on the calendar without selecting a date in the ‘No Attendance Records’ screen causes overlapping between two texts.
+
+Expected Result:
+The calendar should display the previous month correctly without any overlapping text, even if no date is selected.
+Env: Dev
+
+![Image](https://github.com/user-attachments/assets/4b1b8e5a-586b-4472-956b-fc25bcd5d3b3)",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-08 07:19:54+00:00,2025-09-10 07:31:42+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/180
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeZwqE,Issue,Little-sparks,,Student name not displaying correctly when viewing attendance,"Steps to Reproduce:
+
+Log in to the Centerhead platform.
+Click on Calendar.
+Click on Students Attendance.
+
+Actual Result:
+When selecting a student to display attendance, the student's name does not appear properly on the screen.
+
+Expected Result:
+When selecting a student to display attendance, the student’s name should be displayed properly on the screen.
+
+![Image](https://github.com/user-attachments/assets/99c8feaa-2be5-4133-90a2-716c8db24434)",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-05 06:26:15+00:00,2025-09-10 05:18:58+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/178
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeBwbE,Issue,Little-sparks,,Feed shows as unliked when multiple users like the same feed,"Steps to Reproduce:
+Log in to the platform using the Center head & Parents account.
+
+Actual Result:
+In the Feeds page, if one person likes a feed and another person also likes the same feed, it is shown as unliked.
+
+Expected Result:
+Unlike the feed appears liked again after navigating back to the Feeds page
+
+Env:DEV",,suruthisagar97,,,bug,,,,2025-08-26 09:02:35+00:00,2025-09-04 05:23:41+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/154
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd31Mg,Issue,Little-sparks,,Inconsistent loading across application screens,"Steps to Reproduce:
+Log in to the platform using the Center head & Parents account.
+
+
+Actual Result:
+In the application, the loading is not consistent across all screens.
+
+Expected Result:
+The application should have consistent loading behaviour across all screens.
+
+Env: Dev",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 09:30:59+00:00,2025-09-03 05:33:49+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/146
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd6uYc,Issue,Little-sparks,,Feeds page not displaying properly from Dashboard 'View More',"Steps to Reproduce:
+Log in to the platform using the Parent account.
+
+Actual Result:
+On the Dashboard page, clicking 'View More' under Latest Updates redirects to the Feeds page, but the screen does not display properly.
+
+Expected Result:
+On the Dashboard page, when clicking 'View More' under Latest Updates, the user should be redirected to the Feeds page, and the screen should display properly.
+
+Env: Dev
+
+<img width=""359"" height=""800"" alt=""Image"" src=""https://github.com/user-attachments/assets/468b2cc9-e022-4265-acf9-d976de8971ff"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-22 10:19:37+00:00,2025-08-26 06:49:44+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/150
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3TK8,Issue,Little-sparks,,Feed page not responsive with feeds,"Steps to Reproduce:
+
+Log in to the Parents platform.
+Click on Connect.
+Click on Feed.
+
+Actual Result:
+In the Feed pages, the latest feeds are displayed, but the screen does not respond properly.
+
+Expected Result:
+The latest feeds should display correctly, and the screen should respond properly.
+
+![Image](https://github.com/user-attachments/assets/75d20bda-e32e-47cb-a5f0-d25d0cff6f31)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 06:02:23+00:00,2025-08-26 09:10:53+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/133
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd-j9w,Issue,Little-sparks,,Like counts show as zero on Home screen Latest Posts,"Steps to Reproduce:
+Log in to the platform using the Parents account.
+
+Actual Result:
+On the Home screen, the Latest Posts display shows the like counts as zero, but on the feed page the like counts are displayed correctly.
+
+Expected Result:
+The like counts should be displayed correctly on the Home screen Latest Posts, the same as on the feed page.
+
+
+![Image](https://github.com/user-attachments/assets/d64b0019-7670-471d-a6fe-6fbe408de435)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-25 07:35:04+00:00,2025-09-01 07:10:16+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/152
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeCBqE,Issue,Little-sparks,,Error message displayed on all fields when mobile internet is off,"Steps to Reproduce:
+Log in to the platform using the Center head & Parents account.
+
+Actual Result:
+If mobile internet is off when opening the application, an error message is shown on all fields.
+
+Expected Result:
+When mobile internet is off and the application is opened, a single error message should be displayed instead of showing errors in all fields.
+
+![Image](https://github.com/user-attachments/assets/565be7a2-8cff-4ba3-ae87-34ce91815890)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-26 10:44:07+00:00,2025-09-03 05:24:11+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/160
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeB2NQ,Issue,Little-sparks,,Notifications- Show more option,"Description:
+
+- Enhanced notifications module for mobile application by implementing 'Show More' functionality.
+- The system now loads the first 10 notifications by default to optimize performance and reduce initial payload size. 
+- When the user scrolls or taps 'Show More', the backend dynamically fetches the next batch of notifications in sequence. 
+- This approach improves efficiency, ensures smoother user experience, and prevents performance bottlenecks caused by loading all notifications at once.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-26 09:34:43+00:00,2025-09-01 07:20:44+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/155
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeJ-kI,Issue,Little-sparks,,Add Event page not responding,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on Events.
+
+Actual Result:
+On the Add Event page, when I enter text in the Event Name field and select an event type, the page does not respond properly.
+
+Expected Result:
+On the Add Event page, after entering text in the Event Name field and selecting an event type, the page should respond properly and update as expected.
+
+https://github.com/user-attachments/assets/8122afd7-570d-4e2c-b700-1b8b54a67ab8",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-29 05:11:57+00:00,2025-09-01 07:18:28+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/166
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeJ_yw,Issue,Little-sparks,,Feed page loads after rendering other pages first,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on Feeds.
+
+Actual Result:
+When clicking the Feed page, other pages render first before the Feed page images are displayed.
+
+Expected Result:
+When clicking the Feed page, only the Feed page should render, and its images should display immediately without loading other pages.",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-29 05:25:58+00:00,2025-09-01 07:13:28+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/167
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdgU10,Issue,Little-sparks,,Payment module- Mobile,"Description:
+
+Create a figma design for
+
+- Review dues – See the total amount owed for the month, due date, and an itemized breakdown (fees, discounts, taxes, late fees).
+- Select payment method – Choose from supported methods (UPI, debit/credit card, net banking, wallet, or saved payment methods) in a simple, discoverable interface.
+- Pay securely – Complete the transaction with clear confirmation steps, display security/trust indicators, and ensure PCI-compliant design patterns.
+- Receive confirmation – Show a success screen with receipt details, downloadable invoice, and history entry; handle pending or failed payment states clearly.",xavierrnelson,sharonss0809,,,Design,,,,2025-08-11 11:12:35+00:00,2025-08-21 05:21:31+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/104
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgducTs,Issue,Little-sparks,,Notification time not displayed correctly in Notification tab,"Steps to Reproduce:
+Log in to the platform using the Centerhead & Parent account.
+Click on Activities.
+
+Actual Result:
+In the Notification tab, the received notification time is not shown; it only displays ‘just now’.
+
+Expected Result:
+In the Notification tab, the exact received notification time should be shown instead of only displaying ‘just now’.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/1f32d895-000d-4c6d-8ce5-7cfa30142b60)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-18 06:59:00+00:00,2025-08-26 09:08:20+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/118
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd62Dg,Issue,Little-sparks,,Applied Date error in Leave History,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on Calendar.
+Click on Leave History.
+
+Actual Result:
+After applying leave, the Applied Date on the Leave History page is shown as an error message.
+
+Expected Result:
+After applying leave, the Applied Date should be displayed correctly on the Leave History page.
+
+Env: Dev
+
+<img width=""359"" height=""800"" alt=""Image"" src=""https://github.com/user-attachments/assets/848853ef-7592-47db-b129-f40e9d5ed12b"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-22 11:21:51+00:00,2025-08-28 10:01:10+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/151
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3zxs,Issue,Little-sparks,,Error on applying leave with 'Other' type selected.,"Steps to Reproduce:
+Log in to the platform using the Center head account.
+Click on Calender.
+Click on Leave Apply.
+
+Actual Result:
+On the Leave Apply page, select a leave type, choose the 'Other' option, and click the Apply Leave button. An error message is displayed.
+
+Expected Result:
+The leave application should be submitted successfully without displaying any error message when the 'Other' option is selected.
+
+Env: Dev
+
+https://github.com/user-attachments/assets/04f42f72-8789-4b01-a443-24846c2fca40",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 09:23:21+00:00,2025-08-25 07:06:37+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/145
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdB5Ho,Issue,Little-sparks,,Feed module - (Mobile),"Description:
+
+- View feed timeline in chronological order.
+- Load more posts.
+- View details of a post (e.g., full image, description).
+
+Design Reference
+
+Figma Link: https://www.figma.com/design/hSN3ue2C8qpZPwxOJ9QTg2/Chlidcare?node-id=1241-2799&t=k6w246Bm9e0vnv3a-1",suruthisagar97,sharonss0809,,,Development,,,,2025-07-28 11:06:00+00:00,2025-08-21 04:26:42+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/42
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdxVSE,Issue,Little-sparks,,Student details showing ‘N/A’ issue.,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on Connect.
+
+Actual Result:
+When selecting a student and clicking the info (i) icon, the student details page displays. The name field shows ‘N/A’ below the displayed name, and additionally, a ‘Download Attendance’ option appears in the student details page.
+
+Expected Result:
+In the student details page, the correct student name should be displayed without showing ‘N/A’, and only relevant options should appear.
+
+![Image](https://github.com/user-attachments/assets/b5dba027-7d00-4b4e-b69e-fdc6ff54225d)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-19 06:39:08+00:00,2025-08-21 04:42:20+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/126
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdxUJY,Issue,Little-sparks,,Chat not updating to top after message.,"Steps to Reproduce:
+Log in to the platform using the Centerhead and Parents accounts.
+Click on Connect.
+
+Actual Result:
+In the chat list tab, after sending a message to someone and returning to the chat tab, that person’s conversation does not appear at the top of the list. However, if you navigate to another screen and then return to the chat tab, it moves to the top.
+
+Expected Result:
+After sending a message, that person’s conversation should immediately appear at the top of the chat list without needing to navigate away and return.
+
+https://github.com/user-attachments/assets/995f2633-167e-4a0b-b0f5-04c15c683fa8",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-19 06:31:23+00:00,2025-08-21 04:40:29+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/125
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdB0s0,Issue,Little-sparks,,Feed module - (Web),"Description:
+
+- Create and manage feed posts
+- Add images, text content, titles, and timestamps
+- Optionally tag posts with a category (e.g., Announcement, Event, Reminder)
+- Edit or delete previously posted feeds
+
+
+Design Reference
+
+Figma Link: https://www.figma.com/design/hSN3ue2C8qpZPwxOJ9QTg2/Chlidcare?node-id=1241-2799&t=k6w246Bm9e0vnv3a-1",,sharonss0809,,,Development,,,,2025-07-28 10:37:35+00:00,2025-08-19 05:03:09+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/41
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdmHmI,Issue,Little-sparks,,Search icon hides on keyboard open.,"Steps to Reproduce:
+
+Log in to the platform using the Center head account.
+click on Events.
+click on Add Events.
+
+Actual Result:
+On the Add Events page, in the ""Select Students"" field, when clicking the search icon, the keyboard appears and the search icon is hidden from the screen.
+
+Expected Result:
+On the Add Events page, when clicking the search icon in the ""Select Students"" field, the keyboard should appear without hiding the search icon.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-13 10:03:59+00:00,2025-08-21 04:52:16+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/113
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdmLzc,Issue,Little-sparks,,Other center head students shown in list.,"Steps to Reproduce:
+Log in to the platform using the Center head account.
+Click on Events.
+Click on Add Events.
+
+Actual Result:
+On the Add Events page, in the ""Select Students"" field, students from other center heads are displayed.
+
+Expected Result:
+On the Add Events page, the ""Select Students"" field should display only students assigned to the logged-in center head.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/71515860-a6f8-441a-ad37-31e99ee84048",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-13 10:33:31+00:00,2025-08-21 05:00:32+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/114
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdue4I,Issue,Little-sparks,,Duplicate screens open in Add Events tab,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on Events.
+
+Actual Result:
+In the Add Events tab, when selecting event dates and choosing students, two screens open, and one of them closes automatically.
+
+Expected Result:
+In the Add Events tab, only one screen should open when selecting event dates and students, and it should remain open until the user closes it manually.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/06c6f286-f802-45f2-bd89-45ea7ee9df74",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-18 07:14:17+00:00,2025-08-21 04:49:30+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/120
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdxIzk,Issue,Little-sparks,,Name list format is incorrect in student attendance field.,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on Calendar.
+Click on Students Attendance.
+
+Actual Result:
+In the student attendance field, there is no proper name list format.
+
+Expected Result:
+The student attendance field should display the names in a proper, consistent format.
+
+![Image](https://github.com/user-attachments/assets/962ed785-733e-4686-bfdf-940bcaee39d6)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-19 04:45:13+00:00,2025-08-20 08:50:11+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/123
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdmNqQ,Issue,Little-sparks,,Profile and Notification pages not fitting properly on screen.,"Steps to Reproduce:
+Log in to the platform using the Center head account.
+Click on Profile.
+
+Actual Result:
+The Profile and Notification pages do not fit properly on the screen.
+
+Expected Result:
+The Profile and Notification pages should fit properly on the screen without any layout issues.
+
+Environment: DEV
+
+<img width=""1080"" height=""2408"" alt=""Image"" src=""https://github.com/user-attachments/assets/34be3c04-f6e7-4fda-83bf-9dfa4b92ef7a"" />
+
+![Image](https://github.com/user-attachments/assets/1a9aebb5-537b-48c1-a778-4ede0848b719)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-13 10:49:06+00:00,2025-08-20 08:44:02+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/116
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdfg6Y,Issue,Little-sparks,,Announcement Notification module- Mobile,"Description:
+
+- Prompt Notifications: Parents and center heads are immediately informed when an announcement is made by the super admin.
+- Real-Time Alerts: Notifications are sent in real-time, ensuring timely delivery of important information.
+- Actionable Information: Parents and center heads can quickly act on the information provided in the announcement.
+- Enhanced Communication: The module fosters better communication between the super admin, parents, and center heads.
+- Improved Engagement: Ensures that all relevant parties stay engaged and up-to-date within the community or center.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-11 04:51:00+00:00,2025-08-18 05:05:43+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/101
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdiY_A,Issue,Little-sparks,,Center head leave balance checking module- Mobile,"Description:
+
+Implement a mobile app screen and flow for employees to apply for leave.
+
+- User can select leave type, dates, and provide a reason.
+- App shows available balance and prevents exceeding it.
+- Successful submission shows confirmation and updates leave list.
+- Works on iOS and Android, responsive to different screen sizes.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-12 04:33:52+00:00,2025-08-20 08:40:50+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/105
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdmQjs,Issue,Little-sparks,,Overlapping issue on Daily Activities page.,"Steps to Reproduce:
+Log in to the platform using the Center head account.
+Click on Activities.
+
+Actual Result:
+On the Daily Activities page, there is an overlapping issue on the screen.
+
+Expected Result:
+On the Daily Activities page, all elements should be properly aligned without any overlapping.
+
+Environment: DEV
+
+<img width=""359"" height=""800"" alt=""Image"" src=""https://github.com/user-attachments/assets/c58031a7-dfca-4037-9fbb-f14f87d5b55d"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-13 11:10:09+00:00,2025-08-19 05:56:52+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/117
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdmGYU,Issue,Little-sparks,,Hardware back navigation not working on Add Events page.,"Steps to Reproduce:
+Log in to the platform using the Center head account.
+Click on Events.
+Click on Add Events.
+
+Actual Result:
+On the Add Events page, the hardware back navigation is not working.
+
+Expected Result:
+On the Add Events page, the hardware back navigation should function properly and return the user to the previous screen.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-13 09:56:28+00:00,2025-08-19 06:00:17+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/112
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdgIy8,Issue,Little-sparks,,Sometimes the Dashboard page shows an error message.,"Steps to Reproduce:
+
+Log in to the platform using the parent's account.
+
+Actual Result:
+On the Dashboard page, it sometimes shows error messages.
+
+Expected Result:
+The Dashboard page should load without displaying any error messages.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-11 09:52:28+00:00,2025-08-18 05:13:06+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/103
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdibz4,Issue,Little-sparks,,Create/Cancel buttons visible with keyboard open in Add Events,"Steps to Reproduce:
+
+Log in to the platform using the Center head account.
+Click on Events.
+Click on Add Event.
+
+Actual Result:
+In Add Events, when entering data, the Create and Cancel buttons are displayed on the screen even when the keyboard is enabled.
+
+Expected Result:
+On the Add Events screen, the Create and Cancel buttons should not be visible when entering data if the keyboard is open.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/f8aa6d4d-137d-47c0-93d1-53e8929d5a2c)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-12 05:10:14+00:00,2025-08-18 05:20:14+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/107
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdTHzo,Issue,Little-sparks,,Missing event logos displaying as question marks on the home screen,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+
+Actual Result:
+On the home screen, the events list is displayed, but for some events, the logo is missing and a question mark (?) is shown instead.
+
+Expected Result:
+All events in the list on the home screen should display their respective logos. If a logo is missing, a default placeholder image should be shown instead of a question mark.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/6aba8a5b-29e2-4e82-836a-a6fc535f5eff)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-05 05:29:28+00:00,2025-08-18 06:26:37+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/86
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdM5Ps,Issue,Little-sparks,,Back navigation skips previous screen and redirects to home screen.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead or Parents account.
+
+Actual Result:
+
+When navigating back from the current screen, it goes directly to the home screen instead of the previous screen.
+
+Expected Result:
+
+When pressing the back button from the current screen, the user should be navigated to the previous screen, not directly to the home screen.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 09:13:53+00:00,2025-08-18 06:08:34+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/79
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdMf30,Issue,Little-sparks,,Attendance functionality not working on home screen,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+
+Actual Result:
+The attendance functionality on the home screen is not working.
+
+Expected Result:
+
+The attendance functionality should work correctly on the home screen, allowing users to mark or view attendance as intended.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 06:10:58+00:00,2025-08-11 11:19:30+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/73
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc88f8,Issue,Little-sparks,,"Announcement module - Center Head , Parent (Mobile)","Description 
+
+1. Implement a module to display important announcements to users within the app. 
+2. Support for title, message, optional image, and call-to-action (CTA).
+3. Announcements should be shown as a banner, popup, or in a dedicated section.
+4. Include options to dismiss or mark as read.",xavierrnelson,sharonss0809,,,Design,,,,2025-07-25 04:58:32+00:00,2025-08-21 05:18:20+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/18
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdGycQ,Issue,Little-sparks,,Leave Balance Module - Center head (mobile),"Description:
+
+Team Leave Overview:
+
+- Design a clear interface for Centerheads to see an overview of their team's leave balances. This should include:
+- Total leave balances for each team member (e.g., Annual leave, Sick leave, etc.).
+- Used leave and remaining leave for each employee.
+- Leave status for each member (e.g., Pending, Approved, Rejected).
+- Option to filter by employee name, leave type, or date range.",xavierrnelson,sharonss0809,,,Design,,,,2025-07-30 04:45:32+00:00,2025-08-21 05:18:42+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/55
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdMeVI,Issue,Little-sparks,,Completed event still visible on home screen.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+
+Actual Result:
+On the home screen, the event is completed, but it still appears on the screen.
+
+Expected Result:
+
+Completed events should not be displayed on the home screen.
+
+Environment: DEV
+
+<img width=""1080"" height=""2408"" alt=""Image"" src=""https://github.com/user-attachments/assets/97ab9ea7-15c6-4db0-8084-734b9dae980e"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 05:55:22+00:00,2025-08-08 09:15:39+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/72
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdKNms,Issue,Little-sparks,,Activities can be completed out of order.,"Steps to Reproduce:
+Log in to the platform using the centerhead account.
+Click on  Daily Activities
+
+Actual Result:
+Users are able to complete activities in any order, skipping required previous activities.
+
+Expected Result:
+Users should not be able to complete another activity without first completing the previous one.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-31 09:27:11+00:00,2025-08-18 05:28:02+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/71
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBhmA,Issue,Little-sparks,,Centerhead-to-parent messaging not functioning properly.,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on the Connect tab.
+
+Actual Result:
+Sending a message from the Centerhead to parents is not working properly.
+
+Expected Result:
+Messages sent from the Centerhead to parents should be delivered and function properly without any issues.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/3db9e223-b368-48a0-b7e5-eb520f2cf459",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-28 08:59:06+00:00,2025-08-11 11:05:06+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/34
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdMmfg,Issue,Little-sparks,,Search term persists in chat tab after switching tabs.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+Click on the Connect tab.
+
+Actual Result:
+In the chat tab, after entering a name in the search field and switching to another tab, the search term is still displayed in the search bar when returning to the chat tab.
+
+Expected Result:
+When switching away from the chat tab and returning, the search field should be cleared automatically.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/e02c796e-70a7-401c-8a0d-faae7528fda2",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 07:05:45+00:00,2025-08-11 10:39:12+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/76
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdMloU,Issue,Little-sparks,,Keyboard hides person details and loading popup appears after sending message,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on Connect tab.
+
+Actual Result:
+In the chat field, when clicking the text box, the keyboard opens and the person’s details are hidden from the screen. Additionally, after sending a message, a loading popup message is displayed on the screen.
+
+Expected Result:
+When the chat text box is selected, the keyboard should open without hiding the person's details on the screen.
+
+After sending a message, the message should be delivered smoothly without showing an unnecessary loading popup.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/05983e44-6071-4a52-962c-2b69de49dd82",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 06:59:35+00:00,2025-08-11 11:08:10+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/75
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdTGck,Issue,Little-sparks,,Page navigates back when entering text in the 'Reason' field,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+Click on the Calendar.
+Click on Apply leave.
+
+Actual Result:
+The page navigates back automatically when text is entered in the 'Reason' field.
+
+Expected Result:
+The user should be able to enter text in the 'Reason' field without the page navigating away.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/29c9847b-b561-4636-a576-a3cbaff274bc",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-05 05:16:59+00:00,2025-08-11 10:19:42+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/85
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdM6y0,Issue,Little-sparks,,Time sum not working correctly when submitting empty form on Add Activities page.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+Click on the Activities.
+Click on the General Activities.
+
+Actual Result:
+
+On the Add Activities page, if no data is filled in and the submit button is clicked, the sum of time is not working correctly.
+
+Expected Result:
+
+On the Add Activities page, if no data is entered and the submit button is clicked, the system should function properly.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/c9bd0f73-5d58-4cfa-9d67-ba6d8f2af0e9",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 09:24:54+00:00,2025-08-11 10:03:12+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/80
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdY6pE,Issue,Little-sparks,,Personal and address details not displayed on Profile page,"Steps to Reproduce:
+
+Log in to the platform using the parent's account.
+Click on Profile.
+
+Actual Result:
+On the Profile page, personal details and address information are not displayed.
+
+Expected Result:
+Personal and address details should be displayed on the Profile page.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-07 06:53:53+00:00,2025-08-11 09:56:28+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/96
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdT6cY,Issue,Little-sparks,,Missing scrollbar on Events page,"Steps to Reproduce:
+
+Log in to the platform using the Parent or Centerhead account.
+Click on Events.
+
+Actual Result:
+On the Events page, today's or upcoming events are listed, but there is no scrollbar.
+
+Expected Result:
+A scrollbar should be available if the list of today's or upcoming events exceeds the visible area.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-05 10:40:21+00:00,2025-08-07 07:18:17+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/91
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdMpAI,Issue,Little-sparks,,Popup message with refresh button appears when typing in search field.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+Click on Calender tab.
+Click on Students Attendance.
+
+Actual Result:
+When typing any text in the search field, a popup message is displayed along with a refresh button.
+
+Expected Result:
+When typing in the search field, relevant search results should be displayed. No popup message or refresh button should appear unless there's an error or no results found.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/098afef7-f29d-48a8-9e93-64d0355e2628)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 07:21:58+00:00,2025-08-07 05:19:55+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/77
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdT0jE,Issue,Little-sparks,,Error appears when clicking 'Send Code' again after going back without entering OTP.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead or Parents account.
+Click on Forgot Password
+
+Actual Result:
+
+After sending the OTP, if the user clicks the back button without entering the code and then clicks the 'Send Code' button again, an error message appears.
+
+Expected Result:
+
+After sending the OTP, if the user navigates back without entering the code, clicking the 'Send Code' button again should resend the OTP without showing any error message.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/601d6993-412b-46c1-ad4e-6d9edfa38ec7)",,suruthisagar97,,,bug,,,,2025-08-05 10:01:32+00:00,2025-08-07 07:08:16+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/87
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBMbY,Issue,Little-sparks,,Footer tabs remain visible when keyboard opens in Search tab.,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on the Activities tab.
+Select General Activities
+
+Actual Result:
+When selecting the Search tab, the keyboard opens, but the footer tabs are still visible on the screen.
+
+Expected Result:
+When the Search tab is selected and the keyboard opens, the footer tabs should be hidden to prevent UI overlap.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/fdf811b0-ffed-46f9-acee-eb8d7a51993d)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-28 07:08:15+00:00,2025-08-01 09:04:45+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/33
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdHBq4,Issue,Little-sparks,,Auto save Password - Mobile,"Description:
+
+- Password Auto-Save Implementation: Integration with iOS Keychain and Android Autofill for saving and autofilling login credentials.
+- Autofill Support: Ensure that saved credentials are autofilled correctly on subsequent logins.
+- User Settings: Provide a toggle for enabling/disabling the password auto-save feature.
+- Security Compliance: Ensure secure handling of passwords with proper encryption and platform-specific security measures.",suruthisagar97,sharonss0809,,,Development,,,,2025-07-30 06:59:26+00:00,2025-08-04 05:28:20+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/57
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdGxrM,Issue,Little-sparks,,Concerns and Feedback module - mobile,"Description:
+
+Feedback Submission Form:
+Create a user-friendly form where users can submit feedback, including the following fields:
+
+1. Feedback Text Area: A large text box where users can type their comments, suggestions, or complaints.
+2. Rating System: Allow users to rate their experience on a scale (e.g., 1-5 stars or a numerical scale). Optional but recommended.
+
+Optional Fields:
+User name and email (if logged in) or provide an option for anonymous feedback.
+Attachments: Allow users to upload a screenshot or image (optional) to help explain their feedback.
+
+Deliverables:
+
+- User interface for the feedback submission form.
+- Error and success message handling for a smooth user experience.",suruthisagar97,sharonss0809,,,Development,,,,2025-07-30 04:36:44+00:00,2025-08-06 06:46:10+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/54
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc9epA,Issue,Little-sparks,,Login screen fields not properly visible when keyboard is enabled,"Steps to Reproduce:
+
+Log in to the platform using the mobile account.
+Login screen
+
+Actual Result:
+
+The login screen does not properly fit when the keyboard is enabled— the email and password fields are not displayed correctly.
+
+Expected Result:
+
+When the keyboard is enabled on the login screen (e.g., on mobile devices), the UI should adjust properly so that both the email and password fields remain fully visible and accessible to the user.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/4d613aca-d3b2-47ef-a225-ea1ec938559d)
+![Image](https://github.com/user-attachments/assets/9cf3c40a-ac06-4ee6-a0bb-293d2734da5f)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-25 09:33:17+00:00,2025-08-04 06:31:46+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/23
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdxP1A,Issue,Little-sparks,,Payment integration module - Mobile (BE),"We need to add a secure Razorpay Payment Integration Module into the application to handle online transactions.
+This should cover both server and client integration with proper verification and security checks.
+
+Review dues – See the total amount owed for the month, due date, and an itemized breakdown (fees, discounts, taxes, late fees).
+Select payment method – Choose from supported methods (UPI, debit/credit card, net banking, wallet, or saved payment methods) in a simple, discoverable interface.
+Pay securely – Complete the transaction with clear confirmation steps, display security/trust indicators, and ensure PCI-compliant design patterns.
+Receive confirmation – Show a success screen with receipt details, downloadable invoice, and history entry; handle pending or failed payment states clearly.",Lakshana-Lakshmanan,Keerthicodework,,,enhancement,,,,2025-08-19 05:58:19+00:00,2025-08-19 05:58:19+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/124
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc9c-Q,Issue,Little-sparks,,User Management - Web,"1. Add ""Personal Identification"" section.
+2. Implement student list view with search, filter, and pagination.
+3. Enable Add/Edit modal for student and parent info (name, DOB, contact, ID, etc.).
+4. Include detailed form view with sections:
+     Student Info
+     Parent Info
+     ID Details
+5. Emergency Contacts
+6. Integrate with backend API for create, read, update, delete.
+7. Apply validation and error handling for all fields.
+8. Match layout and styling from Figma design.
+9. Admin-only access (role-based control).
+
+Figma design for the user management 
+https://www.figma.com/design/hSN3ue2C8qpZPwxOJ9QTg2/Chlidcare?node-id=1152-1985&t=jC2dg4VWdRx8hNuA-1",suruthisagar97,Keerthicodework,,,Development,,,,2025-07-25 09:22:34+00:00,2025-08-06 09:28:07+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/22
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBAms,Issue,Little-sparks,,Leave approval -(Web application),"Description:
+
+Build the UI and basic logic for the Leave Approval functionality. This feature allows administrators or managers to view, approve, or reject leave requests submitted by users.
+
+1. Display a list/table of leave requests with key details (name, dates, reason, status).
+2. Admin can approve or reject each request.
+3. Show status updates (e.g., Approved, Rejected, Pending).
+4. Optional: Add filtering by date, status, or user.
+
+Requirements:
+
+- Responsive and user-friendly design (Web)
+- Implement approval/rejection actions using buttons
+- Use confirmation modals/popups before final action
+- Use reusable UI components (e.g., request card or table row)",suruthisagar97,sharonss0809,,,Development,,,,2025-07-28 05:36:56+00:00,2025-08-06 06:42:39+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/29
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc1YV4,Issue,Little-sparks,,Leave apply - Centre head (Mobile application),"Develop a leave application process for the center head to manage and apply for leaves. The following steps should be included in the process:
+
+Leave Type Selection: The center head must choose the appropriate leave type from a predefined list.
+
+Date Range Selection: The center head should select the start and end dates for the leave.
+
+Reason for Leave: The center head must provide a reason for applying for the leave.
+
+Attachment (if required): Allow the center head to attach any necessary documentation or files for the leave application.
+
+Leave Approval: Once submitted, the leave request should be sent for approval.
+
+Leave Status in History: Upon approval, the leave status should be reflected in the center head’s leave history, including the leave type, date range, and approval status.",suruthisagar97,Keerthicodework,,,,,,,2025-07-22 10:39:50+00:00,2025-07-30 09:04:30+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/5
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc61ck,Issue,Little-sparks,,Center Management - Super Admin (Web),"1. Centralised management of multiple centers.
+2. Admins can add, edit, and maintain center information.
+3. Supports uploading and displaying center-specific logos.
+4. Manage slot count per center.
+5. Enable/disable centers with visibility controls.",xavierrnelson,sharonss0809,,,Design,,,,2025-07-24 10:03:34+00:00,2025-08-21 05:18:57+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/13
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc88ys,Issue,Little-sparks,,"Announcement module - Super Admin, Client (Web)","Description
+
+1. Build an interface for admins to create, edit, publish, and manage announcements. 
+2. Each announcement should support a title, message, optional image, CTA link, visibility settings",xavierrnelson,sharonss0809,,,Design,,,,2025-07-25 05:02:53+00:00,2025-08-21 05:19:10+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/19
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgcyRQ0,Issue,Little-sparks,,Attendance - Centre head,"check in and check out - centre head has to do and the same will be viewed to Super admin.
+**Core features (Centre head) **
+
+1. Calendar view
+2. check in and check out",xavierrnelson,Keerthicodework,,,Development,,,,2025-07-21 09:28:59+00:00,2025-08-21 05:19:31+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/2
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc87jA,Issue,Little-sparks,,Feed module - Parent (Mobile),"Description:
+
+Implement a scrollable feed to display personalized content. 
+Supports infinite scroll/pagination, real-time refresh, and user interactions.
+Content can include text, images, videos, or links.",xavierrnelson,sharonss0809,,,Design,,,,2025-07-25 04:44:49+00:00,2025-07-25 04:49:10+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/16
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc88Gc,Issue,Little-sparks,,Feed module - Super Admin (Web),"Description 
+
+1. Develop a feed view for the admin dashboard to monitor and manage user-generated content or system updates.
+2. Display items in chronological order with filters.
+3. Include options for reviewing, approving, rejecting, or deleting content.",xavierrnelson,sharonss0809,,,Design,,,,2025-07-25 04:52:49+00:00,2025-07-25 04:53:07+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/17
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc6JJ0,Issue,Little-sparks,,Attendance module - Client (Web),"1. User check-in/check-out functionality
+2. Daily, weekly, and monthly attendance reports
+3. Admin panel for managing users and roles
+4. Real-time attendance dashboard
+5. Export data (CSV, Excel)",xavierrnelson,sharonss0809,,,Design,,,,2025-07-24 05:25:50+00:00,2025-08-21 05:19:46+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/7
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc6PSI,Issue,Little-sparks,,Announcement module - Client(Web),"1. Implementation of Announcement Module
+2. Develop Announcement Feature for Admin and Users
+3. Announcement Module: Create, Manage, and Display System Messages
+4. Build (Client)Role-Based Announcement System
+5. Add Announcement Functionality with Scheduling and Targeting",xavierrnelson,sharonss0809,,,Design,,,,2025-07-24 06:21:39+00:00,2025-08-21 05:20:01+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/9
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc6ztw,Issue,Little-sparks,,Guidelines module - Client (Web),"1. Centralized location for all important instructions, rules, and policies.
+2. Accessible to different user roles: Parents, Teachers, Admins, etc.
+3. Categorized content (e.g., Academic, Conduct, Safety, Operations).
+4. Guidelines can be created, edited, and managed by Admins.
+5. Users can view only relevant guidelines based on their role.
+6. Supports search and filter functionality for quick access.",xavierrnelson,sharonss0809,,,Design,,,,2025-07-24 09:52:48+00:00,2025-08-21 05:20:24+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/12
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc1W_M,Issue,Little-sparks,,Slot Booking - Parent (Mobile application),"Date Selection: Allow the parent to choose the preferred date for the slot.
+
+Center Selection: Enable the parent to select a desired center from the available list.
+
+Seat Booking: Display available seats and allow the parent to book a seat.
+
+Confirmation: Provide a summary of the selected date, center, and seat. Allow the parent to confirm the booking.",,Keerthicodework,,,Development,,,,2025-07-22 10:28:16+00:00,2025-07-25 11:31:16+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/4
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc7GBE,Issue,Little-sparks,,Concerns and Feedback module - Mobile,"Description
+ 
+1. Parents can submit concerns or feedback from the mobile app.
+2. Each message is tracked with a status.
+3. Super Admin responses are visible to the parent within the app.
+4. Clients can reply to continue the conversation.
+5. In-app notifications when a new reply is received.",xavierrnelson,sharonss0809,,,Design,,,,2025-07-24 11:48:52+00:00,2025-08-21 05:20:40+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/15
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc6_8I,Issue,Little-sparks,,Concerns and Feedback module - Web,"Description
+
+1. Super Admin can view, manage, and reply to each concerns and feedback suggestions from parents.
+2. Clients can view responses and reply back, enabling two-way communication.
+3. Notification (email or in-app) when a new response is added.",xavierrnelson,sharonss0809,,,Design,,,,2025-07-24 11:09:39+00:00,2025-08-21 05:20:54+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/14
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc00nk,Issue,Little-sparks,,Figma Design - Guidelines,Need to create a video for the Guidelines and the user manual of the application.,xavierrnelson,Keerthicodework,,,Development,,,,2025-07-22 07:12:08+00:00,2025-08-21 05:21:15+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/3
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc1Z5o,Issue,Little-sparks,,Slot Booking approval - Super Admin (Web application),"Check Slot Booking Availability: Allow the center head to view the availability of slots for specific dates and centers.
+
+View Recent Slot Bookings: Provide the center head with the ability to view the most recent slot bookings, including key details such as date, time, and seat information.",suruthisagar97,Keerthicodework,,,Development,,,,2025-07-22 10:44:09+00:00,2025-08-06 05:49:01+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/6
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc6pwk,Issue,Little-sparks,,Inactive user is still able to log in using valid credentials,"Steps to Reproduce:
+
+Log in to the platform using a SuperAdmin account.
+
+Click on the ""Center"" tab or any other tab.
+
+Mark a user as inactive.
+
+Attempt to log in using the inactive user's credentials.
+
+Actual Result:
+The user is able to log in using the same credentials even after being marked as inactive.
+
+Expected Result:
+Once a user is marked as inactive, they should not be able to log in using the same credentials.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-24 08:58:14+00:00,2025-07-30 06:10:07+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/10
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc9hqE,Issue,Little-sparks,,Text overlapping issue on 'Forgot Password' screen (Mobile view),"Steps to Reproduce:
+
+Log in to the platform using the mobile account.
+Click on Forgot password 
+
+Actual Result:
+
+There is overlapping between the text and the mobile screen.
+
+Expected Result:
+
+All text should be properly displayed within the visible area of the mobile screen without any overlapping.
+The layout should:
+Maintain proper spacing and alignment.
+Ensure that no text is cut off or rendered outside the screen boundaries.
+Be fully responsive and adapt to various mobile screen sizes.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/5af9fc3f-8d2d-4e71-9daf-fa552303cc33)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-25 09:53:23+00:00,2025-07-30 09:52:42+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/24
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdHB04,Issue,Little-sparks,,Text mismatch on Forgot Password page,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on the Forgot Password. 
+
+Actual Result:
+On the Forgot Password page, the placeholder text and page text do not match those on the Sign In screen.
+
+Expected Result:
+On the Forgot Password page, the placeholder text and page text do not match those on the Sign In screen.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/1344baea-c67c-432c-9b54-b9c7eeaedfc5)
+
+![Image](https://github.com/user-attachments/assets/fc96eb8f-c55f-49bd-afe9-50c4c61c3348)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-30 07:00:33+00:00,2025-08-06 06:58:18+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/58
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdA_Zw,Issue,Little-sparks,,Kids Facts- Parent(Mobile),"Description:
+
+Create a UI section to display fun and educational facts for kids within the application. This feature is designed to promote engagement and learning through short, interesting content.
+
+1. Display a list or carousel of kid-friendly facts.
+2. Support fact refresh (daily/weekly or on user action).
+3. Optional: Allow users to like or bookmark facts.
+4. Content may include text, emojis, or images.",suruthisagar97,sharonss0809,,,Development,,,,2025-07-28 05:23:08+00:00,2025-07-30 09:56:32+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/28
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc9m80,Issue,Little-sparks,,No validation for unregistered email on Forgot Password page,"Steps to Reproduce:
+
+Log in to the platform using the mobile account.
+Click on Forgot password 
+
+Actual Result:
+
+There is no validation on the Forgot Password page. If an email that is not stored in the database is entered and the submit button is clicked, it still redirects to the OTP page.
+
+Expected Result:
+
+The system should check whether the entered email exists in the database.
+
+If the email does not exist, display an appropriate error message:
+
+""This email is not registered. Please try again.""
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-25 10:30:34+00:00,2025-07-30 10:00:09+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/25
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc9qNk,Issue,Little-sparks,,Error Message Displayed on Incorrect OTP Entry – Verify Code Functionality,"Steps to Reproduce:
+
+Log in to the platform using the mobile account.
+Click on Forgot password 
+
+Actual Result:
+
+When a wrong OTP is entered and the Verify Code button is clicked, an error message is displayed indicating it is incorrect.
+
+Expected Result:
+
+When a wrong OTP is entered and the Verify Code button is clicked, the system should display an error message clearly indicating that the OTP is incorrect.
+
+Environment: DEV
+
+
+![Image](https://github.com/user-attachments/assets/2eb68a26-4ddc-4a76-b18b-f3085d88fefc)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-25 10:58:55+00:00,2025-07-30 10:17:22+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/26
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc9cs8,Issue,Little-sparks,,Incorrect or missing error message on failed login attempt,"Steps to Reproduce:
+Log in to the platform using the mobile account.
+Login screen
+
+Actual Result:
+
+When entering the wrong email, password, or both, clicking the Login button does not display the correct error message
+
+Expected Result:
+
+When the user enters an incorrect email, password, or both, and clicks the Login button, a clear and specific error message should be displayed—for example:
+
+""Invalid email address.""
+
+""Incorrect password.""
+
+""Invalid email or password.""
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-25 09:20:53+00:00,2025-07-30 10:20:38+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/21
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgc9a_o,Issue,Little-sparks,,Unable to update student's personal email via Edit form,"Steps to Reproduce:
+Log in to the platform using the SuperAdmin account.
+
+Click the Students.
+
+Actual Result:
+
+When selecting a student, clicking the Edit button, and updating the personal email, clicking the Submit button does not save the changes—it still shows the previous email.
+
+Expected Result:
+When selecting a student, clicking the Edit button, and updating the personal email, clicking the Submit button should save the new email.""
+
+Environment: DEV
+
+<!-- Failed to upload ""20250725-0908-56.2732190.mp4"" -->",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-25 09:09:34+00:00,2025-07-29 05:45:43+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/20
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBpAM,Issue,Little-sparks,,Slot Booking Module - (Mobile),"Description:
+
+Build the backend logic, APIs, and data models required to support the Slot Booking feature, enabling users (parents) to view, book, modify, and cancel time slots.
+
+Functionality Requirement:
+Define slot durations, limits, and availability rules.
+
+User Slot Booking:
+Allow users to book a slot from available options.
+Prevent double bookings and enforce availability limits.
+Enable users to cancel or reschedule bookings.
+
+Booking Status Management:
+Track booking status: Booked, Available, Cancelled, Expired.
+Auto-expire slots after a cutoff time (if applicable).
+Notifications (Optional):
+Trigger notifications or emails on booking, rescheduling, or cancellation.",suruthisagar97,sharonss0809,,,,,,,2025-07-28 09:32:02+00:00,2025-07-29 07:29:15+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/35
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBp8Q,Issue,Little-sparks,,Slot Booking module - Super Admin(Web),"Description:
+
+Define slot date, start and end time, capacity, and location.
+Option to create slots in bulk.
+
+Update Slots:
+Modify timing, availability status, or capacity before a slot is booked.
+
+Delete Slots:
+Remove unused or erroneous slots. Protect slots already booked.
+
+View Slots:
+Admin dashboard to view all slots in a calendar or tabular format.
+Filter by date, availability, or location.
+
+Slot Rules:
+Prevent overlapping slots.
+Enforce max capacity per slot.",suruthisagar97,sharonss0809,,,,,,,2025-07-28 09:36:56+00:00,2025-07-29 07:30:34+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/36
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBrE0,Issue,Little-sparks,,center Management - (Web),"Develop backend logic and REST APIs for managing multiple centers.
+Allow admins to create, update, delete, and view centers.
+Each center should store:
+Center name
+Location/address
+Logo (image URL or file reference)
+Total number of booking slots
+Available slots (calculated or synced from Slot module)
+Implement role-based access (admin-only).
+Ensure data validation and file handling for logo uploads.
+Provide APIs to retrieve a list of centers with slot counts and metadata.",suruthisagar97,sharonss0809,,,Development,,,,2025-07-28 09:42:40+00:00,2025-07-29 07:07:49+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/37
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBsI4,Issue,Little-sparks,,User Management module - (Mobile),"Parent User Management:
+Create and manage parent accounts
+Auto-generate secure passwords on account creation
+Hash and securely store passwords
+Send login credentials via email
+
+Add Multiple Children:
+Support registering multiple kids under a single parent
+Associate each child with the respective parent and center
+
+Document Uploads for Each Child:
+Upload and manage files such as:
+Aadhar card
+Birth certificate
+Validate file types (PDF, JPG, PNG) and size limits (e.g., 5MB)
+Store file paths securely",suruthisagar97,sharonss0809,,,Development,,,,2025-07-28 09:48:16+00:00,2025-07-29 06:58:22+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/38
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBvSk,Issue,Little-sparks,,Concerns and feedback module - (Mobile),"Submit Concern/Feedback (Parent):
+
+- Allow parents to submit concerns, suggestions, or feedback from the app.
+- Each submission includes: type, message, optional image, and timestamp.
+- Auto-tag feedback as ""Pending"" on submission.
+
+Admin Management (Dashboard):
+
+- View a list of submitted concerns/feedback.
+- Filter by status (Pending, Resolved, Replied).
+- View details and respond to each submission.
+- Update status and store responses in history.
+
+Notifications:
+
+- Send confirmation to parent after submission.
+- Notify parent when a response is provided.
+
+Figma Link: https://www.figma.com/design/hSN3ue2C8qpZPwxOJ9QTg2/Chlidcare?node-id=1241-2799&t=cMfF2jKzYvmehgr0-1",suruthisagar97,sharonss0809,,,Development,,,,2025-07-28 10:06:28+00:00,2025-07-30 08:54:48+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/39
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBw8U,Issue,Little-sparks,,Concerns and feedback module - (Web),"Description:
+
+Super Admin can view, manage, and reply to each concerns and feedback suggestions from parents.
+Clients can view responses and reply back, enabling two-way communication.
+Notification (email or in-app) when a new response is added.
+
+Figma Link:https://www.figma.com/design/hSN3ue2C8qpZPwxOJ9QTg2/Chlidcare?node-id=1241-2799&t=cMfF2jKzYvmehgr0-1",suruthisagar97,sharonss0809,,,Development,,,,2025-07-28 10:15:56+00:00,2025-08-06 07:05:12+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/40
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBJZc,Issue,Little-sparks,,Extra spaces showing in General Activities section.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+Click on the Activities tab.
+Select General Activities
+
+Actual Result:
+
+Select any student and fill in the details under General Activities. There are a lot of unwanted spaces appearing on the screen.
+
+Expected Result:
+
+The General Activities section should display the entered details properly without any unwanted or extra spaces on the screen.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/bc12165e-8feb-40c5-aa78-69fcde6a5f37)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-28 06:46:08+00:00,2025-07-30 10:23:56+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/31
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBK8c,Issue,Little-sparks,,Search tab retains previous data after switching tabs.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+Click on the Activities tab.
+Select General Activities
+
+Actual Result:
+
+In the Search tab, type any details, then switch to another tab and return to the same tab. The previously entered data is still displayed in the Search tab.
+
+Expected Result:
+
+When switching tabs and returning to the Search tab, the search fields should be cleared, and no previous data should be displayed.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/0445c315-ae69-4af1-afe4-ab5d63205ad1",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-28 06:57:34+00:00,2025-07-30 10:31:24+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/32
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdBH-k,Issue,Little-sparks,,Pending count shows zero on dashboard.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+
+Actual Result:
+
+On the dashboard screen, in the Attendance field, if a student hasn't checked in, the pending status shows as zero.
+
+Expected Result:
+
+On the dashboard screen, in the Attendance field, the pending status should display the correct number of students who haven't checked in, instead of showing zero.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/24d3870c-484a-4205-90c8-35093ebed7bf)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-28 06:34:26+00:00,2025-08-13 09:26:28+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/30
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdEc3E,Issue,Little-sparks,,Error encountered after submitting leave application,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on the Calendar tab.
+Select Leave Apply.
+
+Actual Result:
+After providing all the details and clicking the 'Apply Leave' button, I am getting an error message.
+
+Expected Result:
+The leave should be applied successfully without any error message.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/01015d5d-577d-4ffa-ae8e-5bb519b27076)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-29 09:12:41+00:00,2025-07-30 07:31:29+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/46
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdEfQE,Issue,Little-sparks,,Default date should be pre-selected when no date range is selected.,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on the Calendar tab.
+Select Leave Apply.
+
+Actual Result:
+If no date range is selected, the date should be pre-selected by default.
+
+Expected Result:
+When the user selects a date from the date range, it should be selected. Otherwise, it should remain empty.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/6b8c5afe-c531-4e64-97bf-1c47edc99370)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-29 09:23:51+00:00,2025-07-30 10:34:39+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/47
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdEjJQ,Issue,Little-sparks,,Mismatch in counts between 'Students' and 'Attendance' fields on the Dashboard page.,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+
+Actual Result:
+In the Dashboard page, the 'Students' field shows a count of 5, but in the same dashboard page, the 'Attendance' field shows a count of only 4.
+
+Expected Result:
+
+The count in the ""Students"" field and the ""Attendance"" field should match if they are referring to the same data or criteria. If there is a discrepancy, both fields should display consistent and accurate counts.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/7bed2876-8285-4ba4-91b7-dcf93cf0bb2b)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-29 09:46:12+00:00,2025-08-13 11:46:35+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/48
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdEnwg,Issue,Little-sparks,,'Time In' and 'Time Out' fields not visible after filling all details,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on the Activities.
+Select the General Activities.
+
+Actual Result:
+After filling in all the details, the 'Time In' and 'Time Out' fields are not displaying.
+
+Expected Result:
+After filling in all the details, the 'Time In' and 'Time Out' fields should be displayed correctly.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/6e95aadd-d866-48dd-acb0-5869d313b6eb)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-29 10:13:57+00:00,2025-08-11 10:46:23+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/49
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdEr4U,Issue,Little-sparks,,Error occurs when clicking 'Execute' after selecting 'Get User Profile' in the 'User' field tab.,"Steps to Reproduce:
+Log in to the platform using the Parents account in API.
+Click on the Get User Profile.
+
+Actual Result:
+
+In the 'User' field tab, select 'Get User Profile' and click the 'Execute' button to get an error message.
+
+Expected Result:
+
+When selecting ""Get User Profile"" in the 'User' field tab and clicking the ""Execute"" button, the system should retrieve and display the user profile without any errors.
+
+Environment: DEV
+
+<img width=""1781"" height=""839"" alt=""Image"" src=""https://github.com/user-attachments/assets/1bbb008a-13dd-4bd4-adf6-8651c77d79c8"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-29 10:43:21+00:00,2025-08-06 06:49:05+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/50
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdEvoU,Issue,Little-sparks,,'Attendance' field shows incorrect counts and doesn’t update Check-in when a student checks out.,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+
+Actual Result:
+In the Dashboard page, the 'Attendance' field shows incorrect Check-in and Check-out counts. For example, if 3 students check in and 2 students check out, the counts are displayed incorrectly. Additionally, when a student checks out, the check-in count should decrease, but it does not. Instead, it shows the same number.
+
+Expected Result:
+
+The 'Attendance' field should correctly display the Check-in and Check-out counts. For example, if 3 students check in and 2 students check out, the counts should be updated accurately.
+
+When a student checks out, the Check-in count should decrease accordingly, reflecting the correct number of students who are still checked in.
+
+Environment: DEV
+
+<img width=""1749"" height=""721"" alt=""Image"" src=""https://github.com/user-attachments/assets/b90a4622-a747-45e6-86ba-208697ce5285"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-29 11:11:49+00:00,2025-08-07 09:35:36+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/51
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdGwho,Issue,Little-sparks,,Announcement module - Web,"Description:
+
+1. Admin can successfully create, edit, and delete announcements through the backend API.
+2. Announcements are delivered to users as push notifications and displayed within the app UI.
+3. Announcements can be targeted to specific segments or user roles.
+4. Scheduled and expired announcements work as expected.",suruthisagar97,sharonss0809,,,Development,,,,2025-07-30 04:24:30+00:00,2025-08-06 06:36:29+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/52
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdGw90,Issue,Little-sparks,,Announcement module - mobile,"Description:
+
+- Users will receive push notifications for new announcements and can access them directly from the notification.
+- Announcements are displayed within the app, including the ability to view, read, and dismiss them.
+- User interactions with announcements (read, dismiss) are tracked, ensuring a seamless user experience.
+- Expired announcements are no longer visible in the main feed but remain accessible through a history section.
+- Announcements are personalized to user preferences or segmentation, ensuring relevance.
+- Content formatting and multimedia display correctly across different devices.",suruthisagar97,sharonss0809,,,Development,,,,2025-07-30 04:28:51+00:00,2025-08-06 06:31:01+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/53
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdGy1w,Issue,Little-sparks,,Concerns and feedback module - Web,"Description:
+
+- Feedback submission form and design for user interaction.
+- Admin feedback management interface, including table/list view and response functionality.
+- Notification system for new feedback and admin responses.
+- Responsive and accessible UI for both users and admins.
+- Design assets, specifications, and interactive prototypes.",suruthisagar97,sharonss0809,,,Development,,,,2025-07-30 04:50:36+00:00,2025-08-06 04:51:40+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/56
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdHCA0,Issue,Little-sparks,,Password auto save - Web,"Description:
+
+- Password Auto-Save Integration with the browser’s password manager.
+- Autofill Implementation for saved credentials.
+- Security Best Practices to protect passwords.
+- Error Handling and Feedback for password saving issues.",suruthisagar97,sharonss0809,,,Development,,,,2025-07-30 07:01:53+00:00,2025-08-18 04:31:22+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/59
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdHDyI,Issue,Little-sparks,,Credentials email template issue and missing logo,"Steps to Reproduce:
+Log in to the platform using the Super Admin account.
+Click on the Students.
+Click on the Add Students.
+
+
+Actual Result:
+After creating a student user, the credentials email is received, but the template does not look good and the logo is not displayed in the message.
+
+Expected Result:
+The credentials email should have a properly formatted template, and the logo should be displayed correctly in the message.
+Environment: DEV
+
+<img width=""1047"" height=""725"" alt=""Image"" src=""https://github.com/user-attachments/assets/78a5f781-621d-4a1c-aa60-a96ca530db43"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-30 07:13:36+00:00,2025-08-20 08:57:19+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/60
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdHX4g,Issue,Little-sparks,,Latest applied leave not shown at top of table,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+Click on the Calender.
+Click on the Leave History.
+
+Actual Result:
+Once a leave is applied, the latest applied leave is not displayed at the top of the table.
+
+Expected Result:
+The most recently applied leave should be displayed at the top of the table.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/b38294c2-fc61-4f23-b416-90ff0105b4c6)",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-30 09:10:46+00:00,2025-08-04 05:15:20+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/61
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdHdEM,Issue,Little-sparks,,Dhinasari activities incorrectly displayed in Activities field,"Steps to Reproduce:
+Log in to the platform using the parents account.
+
+Actual Result:
+In the Activities field, updated Dhinasari activities should not be displayed on the screen.
+
+Expected Result:
+Updated Dhinasari activities should be hidden and not displayed in the Activities field on the screen.
+
+Environment: DEV
+
+<img width=""1770"" height=""743"" alt=""Image"" src=""https://github.com/user-attachments/assets/bd1df93c-f529-4ce3-93a2-b89727666b3a"" />
+
+<img width=""1786"" height=""650"" alt=""Image"" src=""https://github.com/user-attachments/assets/bfe70f37-4e9f-4e82-b92a-66e63966e5c1"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-30 09:39:37+00:00,2025-08-06 06:07:22+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/62
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdJoo8,Issue,Little-sparks,,Chat message timestamps are incorrect,"Steps to Reproduce:
+
+Log in to the platform using the parent's account or Centre head account.
+
+Click on Connect.
+
+Actual Result:
+
+In the chat field, the sent message shows incorrect sending and receiving times.
+
+Expected Result:
+
+The chat field should display the correct sending and receiving times for each message.
+
+Environment: DEV
+
+<img width=""1810"" height=""609"" alt=""Image"" src=""https://github.com/user-attachments/assets/257b6b80-ea72-4257-af6e-5c61160fbf3b"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-31 05:10:38+00:00,2025-08-04 05:15:55+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/63
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdJpVw,Issue,Little-sparks,,Export button not functioning,"Steps to Reproduce:
+
+Log in to the platform using the Superadmin account.
+Click on Leave Approval.
+Click on Export.
+
+Actual Result:
+
+When clicking the Export button, the functionality does not work.
+
+Expected Result:
+
+Clicking the Export button should trigger the export functionality and download the appropriate file.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/f26aa2f9-5623-42ac-890e-6889f27d556f",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-31 05:17:49+00:00,2025-08-06 05:45:50+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/64
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdJqU8,Issue,Little-sparks,,Both status buttons show loading state when only one is clicked,"Steps to Reproduce:
+
+Log in to the platform using the Superadmin account.
+Click on Leave Approval.
+Click on Change Status.
+
+Actual Result:
+When changing the status by clicking one button, both buttons are loading.
+
+Expected Result:
+
+Only the selected status button should display a loading state when clicked. Other buttons should remain unaffected
+
+Environment: DEV
+
+<!-- Failed to upload ""20250731-0527-39.1466891.mp4"" -->",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-31 05:28:12+00:00,2025-08-06 05:43:45+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/65
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdJt_E,Issue,Little-sparks,,Background turns completely black after clicking View button,"Steps to Reproduce:
+
+Log in to the platform using the Superadmin account.
+Click on Students.
+Click on View.
+
+Actual Result:
+
+After clicking the View button, the background appears completely black.
+
+Expected Result:
+
+Clicking the View button should display the content as intended without changing the background to completely black.
+
+Environment: DEV
+
+<img width=""1919"" height=""864"" alt=""Image"" src=""https://github.com/user-attachments/assets/768cc3aa-df8a-4f20-80f7-9795a7a4d957"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-31 06:04:25+00:00,2025-08-06 05:39:32+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/66
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdJuqo,Issue,Little-sparks,,Previously selected client not displayed on Edit Student page,"Steps to Reproduce:
+
+Log in to the platform using the Superadmin account.
+Click on Students.
+Click on Edit.
+
+Actual Result:
+
+On the Edit Student page, the previously selected client does not appear in the Client field.
+
+Expected Result:
+
+The Client field on the Edit Student page should display the previously selected client.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/7b0e762f-ad55-4d86-ad3c-259b95f7b670",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-31 06:10:39+00:00,2025-08-06 04:59:26+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/67
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdJwYk,Issue,Little-sparks,,No option to add additional student fields on Edit Student Fields page,"Steps to Reproduce:
+
+Log in to the platform using the Superadmin account.
+Click on Students.
+Click on Edit.
+
+Actual Result:
+
+On the Edit Student Fields page, there is no option to add additional student fields.
+
+Expected Result:
+
+The Edit Student Fields page should provide an option to add more student fields as needed.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-31 06:24:11+00:00,2025-08-06 05:37:31+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/68
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdJ3Ic,Issue,Little-sparks,,Error message displayed after submitting updates on Edit Student page,"Steps to Reproduce:
+
+Log in to the platform using the Superadmin account.
+Click on Students.
+Click on Edit.
+
+Actual Result:
+
+On the Edit Student page, an error message appears after updating and clicking Submit.
+
+Expected Result:
+
+After updating the student information and clicking the Submit button, the changes should be saved successfully without displaying any error message.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/e8c3d38e-5a62-4e7c-99e1-952bbe6f97db",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-31 07:12:14+00:00,2025-08-08 09:44:04+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/69
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdJ3s0,Issue,Little-sparks,,Client dropdown overflows on Add Student page,"Steps to Reproduce:
+
+Log in to the platform using the Superadmin account.
+Click on Students.
+Click on Add Student.
+
+Actual Result:
+On the Add Student page, the Client dropdown is overflowing.
+
+Expected Result:
+
+The Client dropdown should be properly contained within its designated area and should not overflow the page layout.
+
+Environment: DEV
+
+<img width=""1523"" height=""778"" alt=""Image"" src=""https://github.com/user-attachments/assets/47afd464-29db-4762-8319-19df4937547b"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-07-31 07:16:30+00:00,2025-08-19 05:20:53+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/70
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdMj2k,Issue,Little-sparks,,Inconsistent validation messages on account creation across different roles,"Steps to Reproduce:
+
+Log in to the platform using the Superadmin account.
+
+Actual Result:
+
+During account creation for all roles, if the required fields are left empty and the submit button is clicked, the popup message appears for some roles, but for others, a different type of popup message is shown.
+
+Expected Result:
+
+When submitting the account creation form without filling in required fields, a consistent and clear validation message should be displayed across all roles.""
+
+Environment: DEV
+
+<!-- Failed to upload ""20250801-0645-08.4906794.mp4"" -->",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 06:45:54+00:00,2025-08-06 04:55:29+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/74
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdMra0,Issue,Little-sparks,,'Applied On' time incorrect on Leave Details page after applying for leave.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+Click on Calendar tab.
+Click on Leave Apply.
+
+Actual Result:
+After applying for leave, the 'Applied On' date and time are displayed on the Leave Details page, but the time shown is incorrect.
+
+Expected Result:
+The 'Applied On' date and time should display the correct timestamp based on the user's local time at the moment the leave request is submitted.
+
+Environment: DEV
+
+<img width=""359"" height=""800"" alt=""Image"" src=""https://github.com/user-attachments/assets/c234c3aa-651a-4536-8b01-1d0797bf786d"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 07:39:48+00:00,2025-08-04 05:17:35+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/78
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdNEdQ,Issue,Little-sparks,,Missing email/mobile number uniqueness validation during account creation and update,"Steps to Reproduce:
+Log in to the platform using the SuperAdmin account.
+
+Actual Result:
+In the application, proper validation is missing across all pages—users can use the same email or mobile number when creating or updating an account.
+
+Expected Result:
+The application should validate that email addresses and mobile numbers are unique across all pages. Duplicate entries should not be allowed during account creation or updates.
+
+Environment: DEV
+
+<img width=""1082"" height=""766"" alt=""Image"" src=""https://github.com/user-attachments/assets/c84cd570-4b68-4236-ba65-7a80ad892855"" />
+
+<img width=""1140"" height=""679"" alt=""Image"" src=""https://github.com/user-attachments/assets/2ee70a97-4866-4641-86de-f74df83ca20b"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 10:37:26+00:00,2025-08-13 09:04:50+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/81
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdNHuc,Issue,Little-sparks,,Calendar does not display more than one events on the same day.,"Steps to Reproduce:
+
+Log in to the platform using the SuperAdmin account.
+Click on the Events.
+
+Actual Result:
+
+On the Events Calendar page, if more than two events are created on the same day, they are not displayed in the calendar.
+
+Expected Result:
+
+The calendar should display all events created on the same day, or provide an indicator (e.g., '+ more') to show that additional events exist.
+
+Environment: DEV
+
+<img width=""1536"" height=""668"" alt=""Image"" src=""https://github.com/user-attachments/assets/55898879-34aa-49c0-8a10-c6634fd01c3f"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-01 11:04:05+00:00,2025-08-11 05:12:06+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/82
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdQhY0,Issue,Little-sparks,,Students are not visible on the Chat page.,"Steps to Reproduce:
+
+Log in to the platform using the Centerhead account.
+Click on Connect.
+
+Actual Result:
+
+On the Chat page, the students are not displayed on the screen.
+
+Expected Result:
+
+All students should be displayed correctly on the screen in the Chat page.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-04 07:32:02+00:00,2025-08-07 09:17:57+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/83
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdRdks,Issue,Little-sparks,,Center head leave balance checking module- Mobile,"Description:
+
+-    Develop a secure API that allows Centre Heads to check their own leave balances using the mobile app.
+-    Allow authenticated Centre Heads to view their current leave balances via mobile.
+-    Ensure data security, role-based access, and accurate leave information retrieval.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-04 13:20:15+00:00,2025-08-13 09:21:11+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/84
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdT4N0,Issue,Little-sparks,,Missing names and Resolve button not working in Feedback.,"Steps to Reproduce:
+
+Log in to the platform using the Superhead account.
+Click on Feedback
+
+Actual Result:
+
+In the Feedback details, the Parent Name and Student Name are not displayed, and the Resolve button is not working.
+
+Expected Result:
+
+In the Feedback details, both the Parent Name and Student Name should be displayed, and the Resolve button should function properly.
+
+Environment: DEV
+
+<img width=""1598"" height=""860"" alt=""Image"" src=""https://github.com/user-attachments/assets/c2a69b13-f082-427f-80b1-a6695d1f3dfc"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-05 10:24:31+00:00,2025-08-18 06:03:33+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/88
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdT5Uk,Issue,Little-sparks,,Center without centerhead listing,"Description:
+
+- Implement a backend module to identify centers that do not currently have assigned center heads and expose functionality to assign new center heads to those centers. 
+- This will assist admins or authorized users in managing unassigned centers efficiently.
+
+Implement a backend module that enables administrators or authorized users to:
+
+- Retrieve a list of centers that currently have no assigned center heads.
+- Assign eligible users as center heads to these unassigned centers.
+- This will improve administrative efficiency and ensure that all centers are properly managed.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-05 10:31:47+00:00,2025-08-06 07:17:34+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/89
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdT58Q,Issue,Little-sparks,,Center without centerhead listing module,"Description:
+
+- Implement Frontend Module to View and Assign Center Heads to Unassigned Centers
+
+- Develop a frontend interface that allows authorised users (e.g., Admins) to:
+
+- View a list of centres without assigned centre heads
+- Assign eligible users as centre heads to these centres
+- This feature supports administrative workflows to ensure all centres are properly managed.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-05 10:36:34+00:00,2025-08-11 08:55:36+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/90
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdT9fI,Issue,Little-sparks,,Pagination missing and inconsistent loading logic on Feedback page,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+Click on Feedback
+
+Actual Result:
+On the Feedback page, pagination is missing, and the loading logic does not match that of other pages.
+
+Expected Result:
+The Feedback page should have proper pagination, and its loading logic should be consistent with other pages.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-05 11:00:12+00:00,2025-08-11 09:29:01+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/92
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdW22s,Issue,Little-sparks,,Center and client details not displayed in Upcoming Events → View details,"Steps to Reproduce:
+
+Log in to the platform using the Superadmin account.
+Click on Events.
+
+Actual Result:
+On the Upcoming Events page, when clicking the View button, the details are displayed, but the center and client details are not shown in the list.
+
+Expected Result:
+On the Upcoming Events page, when the View button is clicked, all event details should be displayed, including centre and client information in the list.
+
+Environment: DEV
+
+<img width=""991"" height=""844"" alt=""Image"" src=""https://github.com/user-attachments/assets/f96c596a-8592-4195-a9af-3c0d2616fc45"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-06 11:07:01+00:00,2025-08-19 05:13:25+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/93
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdYz-w,Issue,Little-sparks,,Booked slots not appearing on history page,"Steps to Reproduce:
+
+Log in to the platform using the parent's account.
+Click on Calendar.
+Click on Slot Booking.
+
+Actual Result:
+After booking slots, they do not appear on the history page.
+
+Expected Result:
+After booking slots, they should appear on the history page.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-07 06:04:33+00:00,2025-08-18 04:58:45+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/94
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdY0Dk,Issue,Little-sparks,,Announcement module - Web,"Description:
+
+- Develop a frontend module that displays announcements created by a Super Admin as notifications to Parent users when they log in or visit the dashboard.
+
+- This module should fetch announcements via API and support real-time or scheduled visibility.
+
+- Super Admin: Creates announcements (handled via Admin Panel/backend).
+- Parent (User): Receives and views announcements as notifications.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-07 06:05:24+00:00,2025-08-13 09:00:16+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/95
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdZAqg,Issue,Little-sparks,,Created date shows as 'Invalid' on Leave Approval detail view,"Steps to Reproduce:
+
+Log in to the platform using the superadmin account.
+Click on Leave Approval
+
+Actual Result:
+On the Leave Approval page, when clicking the 'View' button, the details are displayed, but the created date should not be shown as 'Invalid'.
+
+Expected Result:
+The created date should be displayed correctly on the Leave Approval page when viewing the details.
+
+Environment: DEV
+
+<img width=""1915"" height=""868"" alt=""Image"" src=""https://github.com/user-attachments/assets/874b1f95-1e88-4438-ac9f-944910e18a5b"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-07 07:30:16+00:00,2025-08-11 09:40:53+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/98
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdbfyk,Issue,Little-sparks,,Email ID not updating after submitting changes on Center Head page.,"Steps to Reproduce:
+
+Log in to the platform using the superadmin account.
+Click on Center heads.
+
+Actual Result:
+On the center head page, after clicking the Edit button and changing the email ID, the updated email does not appear in the field after clicking the Submit button.
+
+Expected Result:
+After clicking the Edit button, changing the email ID, and clicking the Submit button, the updated email ID should be displayed in the field.
+
+Environment: DEV
+
+<!-- Failed to upload ""20250808-0434-04.9020222.mp4"" -->",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-08 04:35:29+00:00,2025-08-11 10:51:07+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/99
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdbzLQ,Issue,Little-sparks,,Event overlap in weekly view on Dashboard calendar.,"Steps to Reproduce:
+
+Log in to the platform using the superadmin account.
+
+Actual Result:
+In the Dashboard page, events in the calendar field overlap with each other when switched to the weekly view.
+
+Expected Result:
+The events in the calendar field should not overlap when switched to the weekly view on the Dashboard page.
+
+Environment: DEV
+
+<img width=""1919"" height=""864"" alt=""Image"" src=""https://github.com/user-attachments/assets/bae7b746-677b-4d7e-aa69-fb43f111c5e3"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-08 07:32:40+00:00,2025-09-12 05:05:42+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/100
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdfjhs,Issue,Little-sparks,,Textbox shows empty space after copying and pasting user input in all roles.,"Steps to Reproduce:
+Log in to the platform using the superadmin account.
+
+Actual Result:
+In all roles, when a user is added in the textbox and the text is copied and pasted, the textbox shows an empty space.
+
+Expected Result:
+The textbox should display the pasted text exactly as entered, without becoming empty.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/948fb309-7c1b-42dc-b497-fb61bdebb7f1",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-11 05:30:13+00:00,2025-09-12 05:07:54+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/102
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdiqn4,Issue,Little-sparks,,No attachments’ shown when creating announcement without document,"Steps to Reproduce:
+
+Log in to the platform using the Center head account.
+Click on Announcements.
+
+Actual Result:
+When creating an announcement without uploading a document, 'No attachments' is shown on the screen.
+
+Expected Result:
+'No attachments' should not be displayed when creating an announcement without uploading a document.
+
+Environment: DEV
+
+<img width=""1919"" height=""873"" alt=""Image"" src=""https://github.com/user-attachments/assets/fbcb1158-0917-4dc6-9c5d-b748fae935a0"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-12 07:12:24+00:00,2025-08-19 05:07:38+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/108
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdisEM,Issue,Little-sparks,,Incorrect creation date displayed after feedback submission,"Steps to Reproduce:
+Log in to the platform using the Center head account.
+Click on Feedback.
+
+Actual Result:
+After creating feedback, the creation date is shown incorrectly.
+
+Expected Result:
+After creating feedback, the correct creation date should be displayed.
+
+Environment: DEV
+
+<img width=""1590"" height=""767"" alt=""Image"" src=""https://github.com/user-attachments/assets/de8437ff-2add-4a26-be35-108ebf5c92d8"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-12 07:20:00+00:00,2025-08-19 05:04:02+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/109
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdlclo,Issue,Little-sparks,,Announcement Module- Client (Web),"Description:
+
+Implement an Announcement Module in the client portal where:
+
+- Clients can only view announcements posted by the Super Admin.
+- Clients receive a notification whenever a new announcement is published.
+- No option for clients to add, edit, or delete announcements.
+- Announcements should be displayed in a read-only format with date and title for quick identification.
+- Notifications should be triggered in real-time (or upon login) and clearly highlight unread announcements.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-13 05:21:43+00:00,2025-08-19 05:30:14+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/110
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdmDl0,Issue,Little-sparks,,Student’s name not shown at top after sending message.,"Steps to Reproduce:
+
+Log in to the platform using the Center head account.
+click on Chats.
+
+Actual Result:
+After selecting any student and sending a message, the student's name is not listed at the top of the screen.
+
+Expected Result:
+After selecting a student and sending a message, the student's name should be listed at the top of the screen.
+
+Environment: DEV
+
+<img width=""1761"" height=""703"" alt=""Image"" src=""https://github.com/user-attachments/assets/0b661b64-ea30-417c-afac-dcdab8d5fc85"" />
+
+![Image](https://github.com/user-attachments/assets/ef135f24-b3c8-46d6-898e-2aebe497ad95)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-13 09:40:45+00:00,2025-08-19 06:09:44+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/111
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdmMfc,Issue,Little-sparks,,Student’s name not shown at top after filling details.,"Steps to Reproduce:
+Log in to the platform using the Centre head account.
+Click on Activities.
+Click on General Activities.
+
+Actual Result:
+After filling in the details, the student's name is not listed at the top of the screen.
+
+Expected Result:
+After filling in the details, the student's name should be listed at the top of the screen.
+
+Environment: DEV
+
+![Image](https://github.com/user-attachments/assets/0abf9578-d1a9-4d7c-a76c-656b763e83b4)",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-13 10:38:22+00:00,2025-08-18 04:36:47+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/115
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgduc7k,Issue,Little-sparks,,Notifications are deleted automatically.,"Steps to Reproduce:
+Log in to the platform using the Centerhead & Parent account.
+Click on Activities.
+
+Actual Result:
+In the Notification tab, the received notification is deleted automatically.
+
+Expected Result:
+In the Notification tab, the received notifications should not be deleted automatically and should remain visible until manually cleared.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-18 07:02:59+00:00,2025-08-20 09:15:43+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/119
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdu60Q,Issue,Little-sparks,,Announcement not displayed on calendar for today’s date,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+Click on Announcements.
+
+Actual Result:
+An announcement has been created, but when selecting today’s date in the calendar, the announcement is not displayed for the current date.
+
+Expected Result:
+The announcement should be displayed on the calendar when selecting today’s date
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/05069b1d-3754-4eb8-97fe-0b1d3f6054d4",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-18 09:52:09+00:00,2025-08-20 09:32:05+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/121
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdu8VA,Issue,Little-sparks,,Error shown after downloading document in Announcements tab,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+Click on Announcements.
+
+Actual Result:
+When clicking the Download button in the Announcements tab, the document is downloaded successfully, but after the download, an error message is displayed.
+
+Expected Result:
+After clicking the Download button in the Announcements tab, the document should download successfully without showing any error message.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/3fcbc9f3-1e20-427e-8485-c925733364ff",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-18 10:00:49+00:00,2025-08-20 09:34:56+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/122
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdxcag,Issue,Little-sparks,,Error displayed when clicking ‘View Documents’ in student details.,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+Click on Students.
+
+Actual Result:
+Select any student and click the ‘View’ button — the details are displayed. But when clicking ‘View Documents’, an error message appears.
+
+Expected Result:
+After selecting a student and clicking ‘View Documents’, the related documents should open without any error message.
+
+https://github.com/user-attachments/assets/8eac584c-1bd7-4c6d-95ca-31efad2d3806",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-19 07:25:26+00:00,2025-08-21 04:33:03+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/127
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdx2tM,Issue,Little-sparks,,Chat notification - Mobile application,"Ensure notifications are received for:
+
+New direct messages.
+
+Group chat messages.
+
+Display notification with:
+
+Sender’s name.
+
+Message preview (first 30–50 characters).
+
+Chat/group name (if applicable).",Lakshana-Lakshmanan,Keerthicodework,,,Development,,,,2025-08-19 09:51:11+00:00,2025-08-19 09:54:03+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/128
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdZAAA,Issue,Little-sparks,,Email ID and password exposed in Network tab,"Steps to Reproduce:
+
+Log in to the platform using the superadmin account.
+
+Actual Result:
+In the Network tab, the email ID and password are displayed on the screen.
+
+Expected Result:
+Email ID and password should not be visible in the Network tab.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/f6bbdda1-3899-46eb-8220-6ee2d086b344",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-07 07:26:16+00:00,2025-09-01 06:26:30+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/97
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdx258,Issue,Little-sparks,,Feedback notification - Mobile application,"Trigger notifications for:
+
+New feedback/comments.
+
+Replies to user’s feedback.
+
+Mentions in feedback.
+
+Display notification with:
+
+Feedback giver’s name.
+
+Feedback type (comment/reply/mention).
+
+Preview text (first 30–50 characters).",suruthisagar97,Keerthicodework,,,Development,,,,2025-08-19 09:52:26+00:00,2025-09-02 05:37:00+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/129
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgdx3G8,Issue,Little-sparks,,Change in Dashboard from Enquiry to Feedback,"Modify the dashboard to replace all references of ""Enquiry"" with ""Feedback"" to better align with updated terminology and functionality.",suruthisagar97,Keerthicodework,,,Development,,,,2025-08-19 09:53:40+00:00,2025-09-02 06:26:09+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/130
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3OIE,Issue,Little-sparks,,Code not pasting into text box,"Steps to Reproduce:
+
+Log in to the superadmin platform.
+Click on Forgot Password.
+
+Actual Result:
+Once I copy the code and paste it, the text box does not display the code.
+
+Expected Result:
+After copying the code, it should be successfully pasted into the text box.
+
+Environment: DEV
+
+https://github.com/user-attachments/assets/cfdf6690-5ed9-44db-826c-c8b70507cf78",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 05:20:38+00:00,2025-09-03 05:18:38+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/131
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3P00,Issue,Little-sparks,,Cannot edit OTP digit.,"Steps to Reproduce:
+
+Log in to the superadmin platform.
+Click on Forgot Password.
+
+Actual Result:
+On the ""Forgot Password"" page, if you change a digit in the middle of the OTP and enter a new number, it moves to the next field but does not allow entering the number in the text box.
+
+Expected Result:
+On the ""Forgot Password"" page, if you change a digit in the middle of the OTP and enter a new number, it moves to the next field but still allows entering the number in the text box.
+
+Environment: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 05:34:48+00:00,2025-09-10 04:52:59+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/132
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3Thg,Issue,Little-sparks,,Latest feeds not displayed at top of Feed page,"Steps to Reproduce:
+
+Log in to the platform using the Parents or Centerhead account.
+Click on Connect.
+Click on Feed.
+
+Actual Result:
+In the Feed pages, the latest feeds are not displayed at the top of the screen
+
+Expected Result:
+The latest feeds should be displayed at the top of the Feed page.",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 06:05:45+00:00,2025-08-25 07:11:00+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/134
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3Xew,Issue,Little-sparks,,Black line appears after clearing filter text with backspace.,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+Click on Center.
+
+Actual Result:
+When enabling the filter and searching for any item, a black line appears on the screen after clearing the text using the backspace button.
+
+Expected Result:
+The screen should remain visually clean without any black lines or artifacts after clearing the filter text.
+
+Env: Dev
+
+https://github.com/user-attachments/assets/ad255f77-a08c-4522-bcbf-5b8b2a77b596",Sathish-codework,suruthisagar97,,,bug,,,,2025-08-21 06:35:13+00:00,2025-08-21 06:35:52+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/135
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3Xjo,Issue,Little-sparks,,Enhancement client dashboard and add Pagination,"Description:
+
+ Improve the Client Dashboard’s usability and performance by:
+
+- redesigning key UI elements (overview cards, filters, table),
+- adding server-side pagination to the client list and related tables,
+- ensuring fast loads and consistent behavior across devices.
+
+Objectives:
+
+- Add pagination controls to the client list.
+- Sync pagination, sorting, and filters.
+- Show loading, empty, and error states gracefully.
+- Ensure responsive and accessible UI.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-21 06:35:48+00:00,2025-08-28 09:46:07+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/136
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3Ydc,Issue,Little-sparks,,Client log missing in Dashboard,"Steps to Reproduce:
+Log in to the platform using the Center account.
+
+Actual Result:
+In the Dashboard, the client log is missing
+
+Expected Result:
+The client log should be visible in the Dashboard.
+
+Env: Dev
+
+<img width=""1917"" height=""867"" alt=""Image"" src=""https://github.com/user-attachments/assets/58ed545c-5679-4cbb-a2b0-a1836802cfcf"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 06:42:15+00:00,2025-09-10 05:03:52+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/137
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3YhA,Issue,Little-sparks,,Filter functionality- client dashboard,"Description: 
+
+- Enhance the Client Dashboard by adding filter functionality to the client list.
+- Users should be able to narrow results using search (name, email, ID), status, owner, and date ranges (created and last activity). 
+- Filters must be server-side, persist in the URL for deep-linking, support multiple selections, and handle empty/invalid states gracefully.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-21 06:42:37+00:00,2025-08-28 09:55:08+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/138
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3ZFE,Issue,Little-sparks,,Filter enabled without clicking filter button,"Steps to Reproduce:
+Log in to the platform using the Centre account.
+
+Actual Result:
+The filter is always enabled without clicking the filter button.
+
+Expected Result:
+The filter should only be enabled after clicking the filter button.
+
+Env: Dev
+
+<img width=""1919"" height=""875"" alt=""Image"" src=""https://github.com/user-attachments/assets/a127aa51-637c-4dd7-96c5-35bf43db658f"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 06:46:58+00:00,2025-08-28 10:22:18+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/139
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3aNI,Issue,Little-sparks,,Slot booking details- Client Dashboard,"Description:
+
+Add a Slot Booking Details section to the Client Dashboard, allowing clients to view all booked slots and their details in a clear, accessible format.
+
+Acceptance Criteria
+
+- Client can view a list of booked slots with all relevant details.
+- Filters (date, status, service type) update the results correctly.
+- Sorting by date works as expected.
+- Empty, loading, and error states are displayed clearly.
+- Works seamlessly across desktop and mobile, passing accessibility checks.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-21 06:54:02+00:00,2025-09-01 05:41:16+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/140
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3aoM,Issue,Little-sparks,,Attendance details- Client dashboard,"Description:
+
+Add an Attendance Details section to the Client Dashboard, allowing clients to view their attendance history with clear and structured information.
+
+Acceptance Criteria
+
+- Client can view attendance history with date, times, and status.
+- Filters (date, status) update the results correctly.
+- Sorting by date works as expected.
+- Empty, loading, and error states are displayed clearly.
+- Works seamlessly across desktop and mobile, passing accessibility checks.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-21 06:56:17+00:00,2025-09-04 06:11:53+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/141
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3a6w,Issue,Little-sparks,,Filter missing on Center Head page,"Steps to Reproduce:
+Log in to the platform using the Centre account.
+Click on Centerhead.
+
+Actual Result:
+In the Center Head page, the filter is missing on the screen.
+
+Expected Result:
+The filter should be visible on the Center Head page.
+
+Env: Dev
+
+<img width=""1919"" height=""869"" alt=""Image"" src=""https://github.com/user-attachments/assets/0c87ae9e-a597-475a-a925-f71ce3433287"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 06:58:27+00:00,2025-08-28 10:23:37+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/142
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3ei8,Issue,Little-sparks,,Inactivated users not visible in Client account,"Steps to Reproduce:
+Log in to the platform using the Client account.
+Click on Centerhead.
+
+Actual Result:
+In the Center Head page, when any user is inactivated in the Super Admin page, they do not appear in the Client account.
+
+Expected Result:
+When a user is inactivated in the Super Admin page, the change should be reflected in the Client account on the Center Head page.
+
+Env:Dev
+
+
+<img width=""1919"" height=""930"" alt=""Image"" src=""https://github.com/user-attachments/assets/e96ed0f3-21b3-425a-a001-d308a3d0d5fa"" />
+
+<img width=""1919"" height=""866"" alt=""Image"" src=""https://github.com/user-attachments/assets/26707c9f-b18c-4853-84a1-eadadfaddd5a"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 07:21:24+00:00,2025-08-28 10:27:40+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/143
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3r3k,Issue,Little-sparks,,Dashboard table shows Center Head name as N/A,"Steps to Reproduce:
+Log in to the platform using the Client account.
+
+Actual Result:
+In the Dashboard page, the Center Head name in the table is shown as N/A.
+
+Expected Result:
+The Dashboard table should display the correct Center Head name instead of N/A.
+
+Env: Dev
+
+<img width=""1917"" height=""871"" alt=""Image"" src=""https://github.com/user-attachments/assets/b2db8286-d7cf-4ccc-8543-ec7ecb78a74a"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 08:39:24+00:00,2025-08-28 10:20:21+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/144
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeOyCc,Issue,Little-sparks,,Milestones - Mobile Application (Backend),"Create a tab for the milestones along with the general activity and daily activity
+
+**The purpose of this structure is to clearly separate long-term objectives, recurring/general work, and daily execution, making it easier to monitor progress and stay accountable.**",suruthisagar97,Keerthicodework,,,,,,,2025-09-01 10:18:44+00:00,2025-09-09 05:18:47+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/168
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd34TQ,Issue,Little-sparks,,'Create Events' button on Events Management page,"Steps to Reproduce:
+Log in to the platform using the Client account.
+Click on Events.
+
+Actual Result:
+In the Events Management page, the 'Create Events' button
+
+Expected Result:
+In the Events Management page, the 'Create Events' button should be removed.
+
+Env: Dev
+
+<img width=""1934"" height=""868"" alt=""Image"" src=""https://github.com/user-attachments/assets/2094ede7-594b-44b3-a498-fa3164ce48af"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 09:45:52+00:00,2025-09-03 06:38:06+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/147
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd3-h4,Issue,Little-sparks,,Replace Center ID with Type (Captive/Aggregate) on Center Head List page,"Steps to Reproduce:
+Log in to the platform using the Client account.
+Click on Centerheads.
+
+
+Actual Result:
+On the Center Head List page, the Center ID should be removed and replaced with the Type (Captive or Aggregate).
+
+Expected Result:
+The Center Head List page should display the Type (Captive or Aggregate) instead of the Center ID.
+
+Env: Dev
+Role: Client
+
+<img width=""1918"" height=""965"" alt=""Image"" src=""https://github.com/user-attachments/assets/61316c5d-f699-4fa4-8e5a-9ca0b0eaa9c8"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-21 10:25:53+00:00,2025-09-03 05:21:09+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/148
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgd6OeA,Issue,Little-sparks,,Username and temp password not received after email ID change,"Steps to Reproduce:
+
+Log in to the Superadmin platform.
+
+Actual Result:
+In any role, after editing and changing the current email ID, the username and temporary password are not received at the specified email address.
+
+Expected Result:
+After editing and changing the current email ID in any role, the username and temporary password should be delivered to the newly specified email address.
+
+Env: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-22 06:39:45+00:00,2025-09-01 07:01:54+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/149
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeBa2k,Issue,Little-sparks,,Unliked feed appears liked again after navigating back to Feeds page,"Steps to Reproduce:
+Log in to the platform using the Parents account.
+
+Actual Result:
+In the Feeds page, when you unlike a feed and navigate to another screen, then return to the same feed screen, the feed still appears as liked.
+
+Expected Result:
+When a feed is unliked, it should remain unliked after navigating away and returning to the same feed screen.
+
+Env:Dev",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-26 07:11:44+00:00,2025-09-04 07:08:55+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/153
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeB3Yo,Issue,Little-sparks,,Enhanced feed likes visibility in mobile application.,"Description:
+
+- Center heads to view detailed information on which parents have liked a particular feed post, enabling better engagement tracking and oversight.
+- Parents to view the total like count on a feed post and see the list of other parents who have liked the same post.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-26 09:41:28+00:00,2025-09-04 07:12:58+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/156
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeB8Ys,Issue,Little-sparks,,Enable Super Admin to view parent payments for booked slots,"Description:
+
+- Implemented payment visibility for Super Admin. 
+- The system now allows Super Admins to view the payment details of parents for specific booked slots. 
+- This includes mapping the parent’s booking to its corresponding payment record, ensuring accurate tracking, transparency, and better management of financial records",suruthisagar97,sharonss0809,,,Development,,,,2025-08-26 10:08:32+00:00,2025-09-01 05:42:11+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/158
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeB-is,Issue,Little-sparks,,Enable Clients to view parent payments for slots booked in their centers,"Description:
+
+- Implemented payment visibility for clients. 
+- Clients can now view the payment details of parents for specific slots booked through their respective centers.
+- This enhancement ensures transparency, enables better financial tracking, and allows clients to monitor booking-related payments within their centres.",suruthisagar97,sharonss0809,,,Development,,,,2025-08-26 10:22:01+00:00,2025-09-01 05:41:54+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/159
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeH4PQ,Issue,Little-sparks,,Unable to Use Deleted Student's Email ID for New Student Creation,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+Click on Students.
+
+Actual Result:
+Delete a student from the list and use the same email ID to create another. It shows 'email already exists'.
+
+Expected Result:
+After deleting a student from the list, using the same email ID to create another student should be allowed without showing the 'email already exists' message.",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-28 09:50:56+00:00,2025-09-18 06:35:19+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/162
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeH_bo,Issue,Little-sparks,,Student Not Removed from Screen After Deletion in Superadmin Role,"Steps to Reproduce:
+Log in to the platform using the Client account.
+Click on Students.
+
+Actual Result:
+In the Superadmin role, after deleting a student from the list in the client account, the particular student will not be removed from the screen.
+
+Expected Result:
+After deleting a student from the list in the client account under the Superadmin role, the student should be removed from the screen immediately.
+
+<!-- Failed to upload ""Screen Recording 2025-08-28 160207.mp4"" -->",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-28 10:38:33+00:00,2025-09-03 05:29:33+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/163
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeIBSA,Issue,Little-sparks,,Listing Details Not Displayed Properly on Students List Page,"Steps to Reproduce:
+Log in to the platform using the Client account.
+Click on Students.
+
+Actual Result:
+On the Students List page, the listing details are not displayed properly.
+
+Expected Result:
+On the Students List page, the listing details should be displayed properly, with all information clearly visible and formatted correctly.
+
+<img width=""1567"" height=""740"" alt=""Image"" src=""https://github.com/user-attachments/assets/3fd3b671-ac74-4974-9955-34f6f058e6b9"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-28 10:49:44+00:00,2025-09-03 06:34:59+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/164
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeIEY4,Issue,Little-sparks,,Delay in Displaying Data on the Students Page,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+Click on Students.
+
+Actual Result:
+When clicking on the Students page, it takes too much time to display the data on the screen.
+
+Expected Result:
+After clicking on the Students page, the data should be displayed promptly without significant delays.
+
+ENV : DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-08-28 11:11:15+00:00,2025-09-18 05:28:29+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/165
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeQ6eg,Issue,Little-sparks,,Feedback notification (BE) - Parent,"When a Superadmin replies to any feedback, the reply is automatically pushed to the Parent Feedback section, ensuring that parents are aware of the updates or clarifications provided by the superadmin.",suruthisagar97,Keerthicodework,,,,,,,2025-09-02 07:42:10+00:00,2025-09-05 05:11:18+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/170
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeB6Y0,Issue,Little-sparks,,Added dedicated 'Announcements' column in Connect tab for center heads and parents,"Description:
+
+- Implemented announcement visibility in the mobile application.
+- A new dedicated 'Announcements' column has been introduced under the Connect tab, accessible to both center heads and parents. 
+- This feature ensures that important updates are clearly separated from other content, making it easier for users to identify and access critical information. 
+- Center heads and parents can view them in the Connect tab for improved communication and engagement.",,sharonss0809,,,Development,,,,2025-08-26 09:58:01+00:00,2025-09-11 05:58:34+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/157
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeRVVc,Issue,Little-sparks,,Mismatch in Overall Student Count on Dashboard vs. Attendance Chart,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+
+
+Actual Result:
+On the Dashboard page, the overall student count is shown as 21, but in the overall attendance chart, the total count is shown as 27.
+
+Expected Result:
+The overall student count displayed on the Dashboard page and in the Overall Attendance chart should be consistent. Both should show the same total number of students.
+
+<img width=""1709"" height=""673"" alt=""Image"" src=""https://github.com/user-attachments/assets/a0e97a03-d00f-4091-bc71-5d2461ba2ff6"" />
+
+<img width=""1675"" height=""660"" alt=""Image"" src=""https://github.com/user-attachments/assets/35aed3d8-48e3-4fae-a9f0-4d5da3eae3c4"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-02 09:56:37+00:00,2025-09-09 05:04:38+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/172
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeRapw,Issue,Little-sparks,,Attendance chart on Dashboard displays incorrect actual values and count,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+
+
+Actual Result:
+On the Dashboard page, the overall Attendance chart does not show the correct actual values or count.
+
+Expected Result:
+The Attendance chart should accurately display the actual attendance values and their corresponding count on the Dashboard page.",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-02 10:25:00+00:00,2025-09-10 05:10:28+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/173
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeRioY,Issue,Little-sparks,,Error message displayed when updating a student on the Students page,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+
+
+Actual Result:
+On the Students page, updating any student and clicking the Submit button results in an error message.
+
+Expected Result:
+Updating a student’s information on the Students page and clicking the Submit button should complete the update successfully without showing any error message.
+
+All Roles
+
+https://github.com/user-attachments/assets/07c1615f-c7b9-4ed4-a5a8-2df095c27752",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-02 11:21:23+00:00,2025-09-04 07:03:08+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/174
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeT6jU,Issue,Little-sparks,,Page Load and Data Retrieval Performance Issue on Mobile and Web,"Steps to Reproduce:
+Log in to the platform using a Mobile or Web account.
+
+
+Actual Result:
+Our application has a performance issue — it takes too long for the page to load and retrieve data on both mobile and web.
+
+Expected Result:
+The page loading and data retrieval in an application—on both mobile and web—is a fast, smooth user experience where pages and data display promptly upon request.",Lakshana-Lakshmanan,suruthisagar97,,,bug,,,,2025-09-03 07:06:20+00:00,2025-09-03 07:06:20+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/175
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgevN5E,Issue,Little-sparks,,Profile Display Issue: Incorrect Student Name,"Steps to Reproduce:
+Log in to the platform using the Parents account.
+
+
+Actual Result:
+In the student account, when selecting the second student and checking the profile, it shows the first student’s name and details
+
+Expected Result:
+When selecting the second student and checking the profile, it should display the second student’s name and details
+
+https://github.com/user-attachments/assets/bab9e9a7-075b-4b87-a45e-74307815cb8a",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-15 09:57:42+00:00,2025-09-18 07:04:37+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/191
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeT_Ko,Issue,Little-sparks,,Incorrect Auto Logout Behavior: Logs Out During Active Use,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+
+Actual Result:
+When the application is in use on screen, it automatically logs out the user after 15 minutes. However, it should only auto-logout if the user is inactive on the screen for 15 minutes.
+
+Expected Result:
+The application session management is that the user should only be automatically logged out after 15 minutes of inactivity, not when the user is actively using the screen or the app.",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-03 07:31:36+00:00,2025-09-18 05:04:30+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/176
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeeIr4,Issue,Little-sparks,,Inconsistent loading across application screens,"Steps to Reproduce:
+Log in to the platform using the client account.
+
+Actual Result:
+In the application, the loading is not consistent across all screens.
+
+Expected Result:
+The application should have consistent loading behaviour across all screens.
+
+Env: Dev",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-08 06:43:32+00:00,2025-10-10 06:43:58+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/179
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgehJ5g,Issue,Little-sparks,,Error displayed when clicking on Center Details from the Dashboard page.,"Steps to Reproduce:
+Log in to the platform using the Client account.
+
+Actual Result:
+On the Dashboard page, clicking on any Center Details redirects to another page, but it shows an error message.
+
+Expected Result:
+Clicking on any Center Details on the Dashboard page should redirect to the corresponding details page without showing any error message.
+
+Env: Dev
+
+https://github.com/user-attachments/assets/c859cf19-4a9c-46fe-8d07-d5536a10e113",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-09 04:57:58+00:00,2025-09-10 05:15:37+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/181
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgehUWs,Issue,Little-sparks,,Guidelines - Entire application (Mobile application),,Maharajacodework,Keerthicodework,,,Development,,,,2025-09-09 06:32:41+00:00,2025-09-09 06:34:56+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/182
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgehUlQ,Issue,Little-sparks,,Push notification - Mobile application,,Maharajacodework,Keerthicodework,,,Development,,,,2025-09-09 06:34:29+00:00,2025-09-09 06:34:29+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/183
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgehVHQ,Issue,Little-sparks,,Guidelines for entire application (Web application),,suruthisagar97,Keerthicodework,,,Development,,,,2025-09-09 06:38:43+00:00,2025-10-09 11:15:29+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/185
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgehv14,Issue,Little-sparks,,Incorrect OTP triggers wrong pop-up message upon verification.,"Steps to Reproduce:
+Log in to the platform using the Super admin account.
+Click on Forgot Password.
+
+Actual Result:
+Entering an incorrect OTP and clicking the verify button shows the wrong pop-up message.
+
+Expected Result:
+Upon entering an incorrect OTP and clicking the verify button, the system should display a pop-up message indicating that the OTP is incorrect.
+
+Env: Dev
+
+<img width=""1919"" height=""869"" alt=""Image"" src=""https://github.com/user-attachments/assets/4293b104-ec76-4b14-a6fa-d7e8787aa592"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-09 08:58:37+00:00,2025-09-18 05:18:07+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/186
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeh3fI,Issue,Little-sparks,,Current date selected by default on Announcement Page,"Steps to Reproduce:
+Log in to the platform using the Super admin account.
+Click on Announcements.
+
+Actual Result:
+On the Announcement Page, the current date is selected by default without being manually selected.
+
+Expected Result:
+On the Announcement Page, the current date should not be selected by default. The user should be able to manually select a date.
+
+Env: Dev
+
+<img width=""1918"" height=""957"" alt=""Image"" src=""https://github.com/user-attachments/assets/4ec591a2-b8d2-4f6f-87fa-0d9c15bc7b6d"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-09 09:33:57+00:00,2025-09-12 05:09:44+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/187
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgeqQeE,Issue,Little-sparks,,Center head leave request not appearing in superadmin notifications.,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+
+
+Actual Result:
+When the center head applies for leave, it does not appear in the superadmin's notifications.
+
+Expected Result:
+When the center head applies for leave, the leave request should appear in the superadmin's notifications.",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-12 05:28:47+00:00,2025-09-18 05:12:27+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/190
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge4qyU,Issue,Little-sparks,,All client accounts shown after event creation,"Steps to Reproduce:
+Log in to the platform using the superadmin account.
+Click on Events.
+Click on Create Event.
+
+Actual Result:
+On selecting a particular client and clicking the Create Event button, all client accounts should be displayed after the event is created.
+
+Expected Result:
+On selecting a particular client and clicking the Create Event button, it should not be displayed in all client accounts; only the selected client’s accounts should be displayed after the event is created.",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-18 08:55:34+00:00,2025-09-23 04:46:20+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/193
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge7YOs,Issue,Little-sparks,,Offline message shown after screen on post login.,"Steps to Reproduce:
+Log in to the platform using the center head account.
+
+Actual Result:
+After logging into the application, if the screen is turned off and then turned on again, a message pops up saying ‘You are offline.’
+
+Expected Result:
+After logging into the application, turning the screen off and on should keep the user online without showing an offline message.
+
+Mobile: iOS
+
+https://github.com/user-attachments/assets/3af13c6c-3e32-480d-a049-473b10d68ede",Maharajacodework,suruthisagar97,,,bug,,,,2025-09-19 07:14:20+00:00,2025-09-19 07:14:20+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/196
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge_iQg,Issue,Little-sparks,,Daily Activities tab sometimes shows ‘No activities found’ incorrectly.,"Steps to Reproduce:
+Log in to the platform using the center head account.
+Clicking on Activities.
+
+Actual Result:
+When clicking the Daily Activities tab, sometimes it shows the message ‘No activities found for this date.
+
+Expected Result:
+When clicking the Daily Activities tab, instead of showing ‘No activities found for this date,’ the data should be displayed.
+
+![Image](https://github.com/user-attachments/assets/dde6e06d-906c-4c78-822a-92a17abaeae9)",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-22 05:28:50+00:00,2025-10-09 11:02:35+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/199
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge_jNo,Issue,Little-sparks,,Organization logo not displaying properly.,"Steps to Reproduce:
+Log in to the platform using the Superadmin account.
+Click on Clients.
+
+Actual Result:
+Select any client, click the three dots, and then click View. The organization logo is not displayed properly.
+
+Expected Result:
+When a client is selected and ‘View’ is clicked from the three-dot menu, the organization logo should be displayed properly.
+
+<img width=""1139"" height=""869"" alt=""Image"" src=""https://github.com/user-attachments/assets/0abaaa1d-728c-4578-8594-33e870e4d3d7"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-22 05:36:35+00:00,2025-09-24 07:02:54+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/200
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge_pNQ,Issue,Little-sparks,,Calendar not displaying properly when selecting date range (From–To),"Steps to Reproduce:
+Log in to the platform using the Center head account.
+Click on Calendar.
+Click on Leave Apply.
+
+Actual Result:
+
+When selecting a date range (From–To), the calendar does not display properly on the screen.
+
+Expected Result:
+When selecting a date range (From–To), the calendar should be displayed properly on the screen.
+
+Mobile: iOS
+
+https://github.com/user-attachments/assets/2c7d691a-a51e-48bf-af5f-908e500541c7",Maharajacodework,suruthisagar97,,,bug,,,,2025-09-22 06:29:23+00:00,2025-09-22 06:29:23+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/201
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgfATFY,Issue,Little-sparks,,Page headers too large compared to Android mobile,"Steps to Reproduce:
+Log in to the platform using the Centerhead & Parents account.
+
+Actual Result:
+In the application, all page headers are too large compared to Android mobile.
+
+Expected Result:
+In the application, all page headers should be properly sized and consistent with Android mobile.
+
+Mobile : iOS",Maharajacodework,suruthisagar97,,,bug,,,,2025-09-22 09:55:23+00:00,2025-09-22 09:55:23+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/205
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzge_uCo,Issue,Little-sparks,,Company logo and name not displayed on Dashboard (shows N/A).,"Steps to Reproduce:
+Log in to the platform using the Center head account.
+
+Actual Result:
+On the Dashboard, the company logo and company name are not displayed; instead, it show as N/A.
+
+Expected Result:
+On the Dashboard, the company logo and company name should be displayed correctly instead of showing N/A.
+
+Mobile: iOS
+
+![Image](https://github.com/user-attachments/assets/664056f3-cc4e-47d6-9e07-863fb8cc83cd)",Maharajacodework,suruthisagar97,,,bug,,,,2025-09-22 07:02:05+00:00,2025-09-22 07:02:05+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/203
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgfFnEU,Issue,Little-sparks,,Show incorrect login message for inactive users.,"Steps to Reproduce:
+Log in to the platform using the Client, centre head, or centres account.
+
+Actual Result:
+If the user is inactive and tries to log in with the same email and password, display a message indicating that the login is incorrect.
+
+Expected Result:
+When a user attempts to log in with the same email and password after being inactive, a message should appear indicating that the login credentials are incorrect.
+
+<img width=""1918"" height=""866"" alt=""Image"" src=""https://github.com/user-attachments/assets/9237bc45-7840-4b97-8de1-97f7dae31656"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-24 05:03:28+00:00,2025-09-29 04:53:20+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/207
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgfFsQs,Issue,Little-sparks,,Resolved feedback message not shown.,"Steps to Reproduce:
+Log in to the platform using the Parent account.
+Click on Feedback.
+
+Actual Result:
+When parents submit feedback and the super admin resolves it, the feedback message is not displayed. Instead, it shows: 'Your feedback has been marked as resolved.'
+
+Expected Result:
+When parents submit feedback and the super admin resolves it, the system should display the updated feedback message indicating that the feedback has been resolved, e.g., 'Your feedback has been marked as resolved.'
+
+
+<img width=""1910"" height=""866"" alt=""Image"" src=""https://github.com/user-attachments/assets/3527d944-724a-4286-bd8e-95cbff1564c2"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-24 05:51:43+00:00,2025-09-24 10:01:47+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/208
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgfGKXQ,Issue,Little-sparks,,General activities for one student reflected for another under same parent.,"Steps to Reproduce:
+Log in to the platform using the Centerhead account.
+
+Actual Result:
+For two students under one parent, when general activities are completed for one student, they are also reflected for the other student in the parent's login.
+
+Expected Result:
+General activities completed for one student should be reflected only for that student in the parent's login, not for other students.",Maharajacodework,suruthisagar97,,,bug,,,,2025-09-24 08:49:47+00:00,2025-09-25 07:34:26+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/210
+CodeWork-ai,Little sparks,8,PVTI_lADOCzkvuc4A-bcMzgfMhMw,Issue,Little-sparks,,Unable to download images uploaded by parents on History page.,"Steps to Reproduce:
+Log in to the platform using the Parents account.
+Click on Feedback.
+Click on History.
+
+Actual Result:
+On the History page, if parents upload an image, it cannot be downloaded and shows an error message.
+
+Expected Result:
+On the History page, if parents upload an image, it should be downloadable without any error message.
+
+Env: DEV",Maharajacodework,suruthisagar97,,,bug,,,,2025-09-26 09:08:28+00:00,2025-09-26 09:08:28+00:00,https://github.com/CodeWork-ai/Little-sparks/issues/211

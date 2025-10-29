@@ -1,0 +1,391 @@
+organization,project_name,project_number,project_item_id,item_type,repo,issue_pr_number,task_title,task_description,assignees,assigned_by,status,priority,labels,milestone,iteration,due_date,created_at,updated_at,url
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgee6eE,Issue,E-book,,Home Page - Admin (Add & Delete user) FE,"Create front end page for Add and delete user in the Admin Dashboard. 
+
+https://www.figma.com/design/mmiCht93B6OXbsSqgp5HF7/Ebook?node-id=0-1&p=f&t=BIajGxZEt3QGW821-0",suruthisagar97,Keerthicodework,,,,,,,2025-09-08 10:49:18+00:00,2025-10-08 05:33:05+00:00,https://github.com/CodeWork-ai/E-book/issues/10
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfRhGI,Issue,E-book,,"Display user details under ""User Accounts"" on the Users page in the Admin panel","Steps to Reproduce:
+Log in to the platform using the User account.
+Click on Profile.
+Click on Users.
+
+Actual Result:
+On the Users page in the Admin panel, the list of user details should be displayed under User Accounts.
+
+Expected Result:
+On the Users page in the Admin panel, the list of user details is not displayed under User Accounts.
+
+Env: DEV
+
+https://github.com/user-attachments/assets/2a543ca8-dfa6-4fea-864d-bafd26697992",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-29 11:46:49+00:00,2025-10-08 05:04:24+00:00,https://github.com/CodeWork-ai/E-book/issues/26
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgehuvc,Issue,E-book,,Create Login (Sign-in functionality) for Admin - Back end,"Develop the backend for Admin login functionality. The goal is to authenticate the Admin using their username and password, and return a secure token if credentials are valid.
+
+
+https://www.figma.com/design/mmiCht93B6OXbsSqgp5HF7/Ebook?node-id=0-1&p=f&t=UjMlywFptgVx1fXs-0",sindhuja-S31,Keerthicodework,,,,,,,2025-09-09 08:53:15+00:00,2025-09-09 10:24:47+00:00,https://github.com/CodeWork-ai/E-book/issues/14
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgenfDY,Issue,E-book,,PDF Summarization - Backend (User),,sindhuja-S31,Keerthicodework,,,,,,,2025-09-11 06:34:20+00:00,2025-09-11 06:34:20+00:00,https://github.com/CodeWork-ai/E-book/issues/16
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgehvh4,Issue,E-book,,Create Login (Sign-in functionality) for User - Back end,"Develop the backend for user login functionality. The goal is to authenticate the Admin using their username and password, and return a secure token if credentials are valid.",sindhuja-S31,Keerthicodework,,,,,,,2025-09-09 08:57:03+00:00,2025-10-07 05:22:11+00:00,https://github.com/CodeWork-ai/E-book/issues/15
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgee2Mg,Issue,E-book,,Login screen and Authentication  - Front end,Create Login screen and Authentication for both User and Admin.,suruthisagar97,Keerthicodework,,,,,,,2025-09-08 10:23:02+00:00,2025-10-14 07:08:14+00:00,https://github.com/CodeWork-ai/E-book/issues/6
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgee2rU,Issue,E-book,,Home page for Admin - Front end,"Create Home page for Admin. 
+
+Kindly refer to figma design. 
+
+https://www.figma.com/design/mmiCht93B6OXbsSqgp5HF7/Ebook?node-id=0-1&p=f&t=BIajGxZEt3QGW821-0",suruthisagar97,Keerthicodework,,,,,,,2025-09-08 10:26:00+00:00,2025-10-14 07:10:31+00:00,https://github.com/CodeWork-ai/E-book/issues/8
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgee2Yk,Issue,E-book,,Home Page for User - Front end,"Create Home page screen for User. 
+
+Kindly refer figma design. 
+
+https://www.figma.com/design/mmiCht93B6OXbsSqgp5HF7/Ebook?node-id=0-1&p=f&t=BIajGxZEt3QGW821-0",suruthisagar97,Keerthicodework,,,,,,,2025-09-08 10:24:12+00:00,2025-10-14 07:12:02+00:00,https://github.com/CodeWork-ai/E-book/issues/7
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgee3H0,Issue,E-book,,PDF View port - Front end,"Create a toggle option for the flip and scroll . 
+
+Kindly refer to the figma design
+
+https://www.figma.com/design/mmiCht93B6OXbsSqgp5HF7/Ebook?node-id=0-1&p=f&t=BIajGxZEt3QGW821-0",suruthisagar97,Keerthicodework,,,,,,,2025-09-08 10:28:37+00:00,2025-10-14 07:13:50+00:00,https://github.com/CodeWork-ai/E-book/issues/9
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgcyKuk,Issue,E-book,,PDF Summarization,Create Smart summarization for Legislative document- PDF,PavithraA-Codework,Keerthicodework,,,enhancement,,,,2025-07-21 08:54:36+00:00,2025-07-21 08:55:15+00:00,https://github.com/CodeWork-ai/E-book/issues/1
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgeOy38,Issue,E-book,,Text extraction and cleaning (Pre processing using sample PDF),"Implement text extraction from sample PDF(s).
+
+Perform text cleaning and normalization (remove special characters, stop words, line breaks, etc.).
+
+Handle edge cases such as headers, footers, tables, and hyphenated words.
+
+Output a processed text dataset ready for further AI tasks (NLP, embeddings, model training).",PavithraA-Codework,Keerthicodework,,,enhancement,,,,2025-09-01 10:24:27+00:00,2025-09-01 10:24:27+00:00,https://github.com/CodeWork-ai/E-book/issues/4
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgcyN-U,Issue,E-book,,RAG - Chatbot,Create a RAG based chatbot that provides contextual answers based on the legislative document PDFs.,Nitishcode213,Keerthicodework,,,documentation,,,,2025-07-21 09:11:32+00:00,2025-07-21 09:13:04+00:00,https://github.com/CodeWork-ai/E-book/issues/2
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgehYMQ,Issue,E-book,,Chroma DB set-up,Need to set up the chroma DB,PavithraA-Codework,Keerthicodework,,,enhancement,,,,2025-09-09 06:58:34+00:00,2025-09-09 06:58:34+00:00,https://github.com/CodeWork-ai/E-book/issues/13
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgehYGE,Issue,E-book,,Handling LLM context,,PavithraA-Codework,Keerthicodework,,,,,,,2025-09-09 06:57:56+00:00,2025-09-09 06:57:56+00:00,https://github.com/CodeWork-ai/E-book/issues/12
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgehXYU,Issue,E-book,,Langchain Memory,Need to optimize the langchain memory.,PavithraA-Codework,Keerthicodework,,,,,,,2025-09-09 06:53:49+00:00,2025-09-09 06:53:49+00:00,https://github.com/CodeWork-ai/E-book/issues/11
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgc04TM,Issue,E-book,,Deployment - for 1 Module (Summarization),"Move the front end and back end code to the deployment. 
+
+1. check for the feasible server
+2. Get the workflow for the deployment. 
+3. And push the summarization module to deployment followed by sanitary testing.
+4. do A/B testing",Nitishcode213,Keerthicodework,,,documentation,,,,2025-07-22 07:35:36+00:00,2025-07-22 07:38:01+00:00,https://github.com/CodeWork-ai/E-book/issues/3
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgeOzKY,Issue,E-book,,Langchain Set-up,"Install and configure LangChain in the development environment.
+
+Set up necessary dependencies (e.g., Python, virtual environment, libraries).
+
+Connect LangChain with an LLM provider (e.g., OpenAI, Hugging Face, etc.).
+
+Verify integrations with at least one data source (PDFs, APIs, or databases).
+
+Prepare a basic working pipeline (prompt → processing → response).",Nitishcode213,Keerthicodework,,,enhancement,,,,2025-09-01 10:26:17+00:00,2025-09-01 10:26:17+00:00,https://github.com/CodeWork-ai/E-book/issues/5
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfuvS8,Issue,E-book,,Chatbot responses overlap with summarized text.,"Steps to Reproduce:
+Log in to the platform using the admin account.
+
+Actual Result:
+When clicking summarization button summarization text and chatbot lapping between text.
+
+Expected Result:
+When clicking the summarization button, the summarized text should appear, and the chatbot's responses should not overlap with the text.
+
+Env: DEV
+
+<img width=""1919"" height=""867"" alt=""Image"" src=""https://github.com/user-attachments/assets/df178d00-6bd3-4e73-bc54-f75f4fef0a4f"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-10 06:36:55+00:00,2025-10-14 07:06:41+00:00,https://github.com/CodeWork-ai/E-book/issues/37
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfzQ58,Issue,E-book,,Pop-up appears on Rename without text change,"Steps to Reproduce:
+Log in to the platform using the admin account.
+Click on 3 dot button.
+
+Actual Result:
+When clicking the Rename button without changing the text, a pop-up message is displayed.
+
+Expected Result:
+The Rename button should be disabled if no text changes are made, and no pop-up message should appear.
+
+Env: DEV
+
+https://github.com/user-attachments/assets/6b8bdada-c178-4d27-914c-5afc3298055d",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-13 07:33:48+00:00,2025-10-14 07:04:04+00:00,https://github.com/CodeWork-ai/E-book/issues/41
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfzPus,Issue,E-book,,Red outline appears on text box when Rename is clicked without selecting text,"Steps to Reproduce:
+Log in to the platform using the admin account.
+Click on 3 dot button.
+
+Actual Result:
+When clicking the Rename button without selecting any text, the text box is highlighted, and its outline turns red.
+
+Expected Result:
+When the Rename button is clicked without selecting any text, no text box should be highlighted, and the outline should not turn red.
+
+Env: DEV
+
+https://github.com/user-attachments/assets/4bc2a6d4-9d5a-4f6b-85ee-1323aa6a470a",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-13 07:26:52+00:00,2025-10-14 07:02:18+00:00,https://github.com/CodeWork-ai/E-book/issues/40
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfoPlU,Issue,E-book,,Email and Password fields accept spaces when data is copied and pasted,"Steps to Reproduce:
+Log in to the platform using the User  account.
+
+Actual Result:
+In the Email and Password fields, when data is copied and pasted, it accepts spaces in the placeholder.
+
+Expected Result:
+When data is copied and pasted into the Email and Password fields, any leading or trailing spaces should be automatically trimmed, and spaces should not be accepted in the placeholder.
+
+Env: DEV
+
+<img width=""1910"" height=""878"" alt=""Image"" src=""https://github.com/user-attachments/assets/3001dfe6-cbe7-4916-a32b-29dd50dfafd3"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-08 05:52:24+00:00,2025-10-14 07:21:10+00:00,https://github.com/CodeWork-ai/E-book/issues/32
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfRb7c,Issue,E-book,,Wrong popup message for duplicate email,"Steps to Reproduce:
+Log in to the platform using the Admin account.
+Click on Profile.
+Click on Users.
+Click on Add User.
+
+Actual Result:
+When the user provides the same email and clicks the Create User button, the popup displays the wrong message.
+
+Expected Result:
+When the user provides an existing email and clicks the Create User button, the system should display an appropriate error message indicating that the email already exists.
+
+Env: DEV
+
+<img width=""1919"" height=""867"" alt=""Image"" src=""https://github.com/user-attachments/assets/dbd074d1-6e90-44ee-a29e-6207c4d5f712"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-29 11:16:48+00:00,2025-10-14 06:48:25+00:00,https://github.com/CodeWork-ai/E-book/issues/24
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfQnlU,Issue,E-book,,Invalid login shows error popup,"Steps to Reproduce:
+Log in to the platform using the Admin account.
+
+Actual Result:
+When the wrong email or password is entered and the login button is clicked, a popup message appears showing an error message.
+
+Expected Result:
+A popup message should appear stating “Invalid email or password” when the user enters incorrect login credentials and clicks the login button.
+
+Env: DEV
+
+<img width=""1919"" height=""873"" alt=""Image"" src=""https://github.com/user-attachments/assets/d2be4e88-b38a-4695-918b-6bee9236cfeb"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-29 06:42:46+00:00,2025-10-14 06:39:43+00:00,https://github.com/CodeWork-ai/E-book/issues/17
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfQ-zI,Issue,E-book,,“Forgot Password” button not responding when clicked,"Steps to Reproduce:
+Login Screen to the platform using the  account.
+
+Actual Result:
+Clicking the ‘Forgot Password’ button is not giving any response on the screen.
+
+Expected Result:
+When the user clicks the “Forgot Password” button, the system should navigate to the password reset page or display a password reset form/prompt.
+
+Env: DEV",sindhuja-S31,suruthisagar97,,,bug,,,,2025-09-29 08:43:18+00:00,2025-09-29 08:43:18+00:00,https://github.com/CodeWork-ai/E-book/issues/18
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfRBYs,Issue,E-book,,Selected data not deleted after clicking Delete,"Steps to Reproduce:
+Log in to the platform using the Admin account.
+
+Actual Result:
+Selecting any data and clicking the three-dot button, then clicking the Delete button, does not delete the selected data from the screen.
+
+Expected Result:
+When the user selects any data and clicks the three-dot button followed by the Delete option, the selected data should be removed from the screen and the list should update accordingly.
+
+Env: DEV
+
+https://github.com/user-attachments/assets/71effb39-2fa5-48d0-8b27-4897b3e21d57",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-29 08:55:15+00:00,2025-10-14 08:40:05+00:00,https://github.com/CodeWork-ai/E-book/issues/19
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfRWCM,Issue,E-book,,Recent button not working on click,"Steps to Reproduce:
+Log in to the platform using the Admin account.
+
+Actual Result:
+Clicking the Recent button is not working on the screen.
+
+Expected Result:
+When the user clicks the Recent button, the system should display the recent data or navigate to the recent section on the screen.
+
+Env: DEV",sindhuja-S31,suruthisagar97,,,bug,,,,2025-09-29 10:41:14+00:00,2025-09-29 10:41:14+00:00,https://github.com/CodeWork-ai/E-book/issues/20
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfRWwM,Issue,E-book,,Filter button not working on click,"Steps to Reproduce:
+Log in to the platform using the Admin account.
+
+Actual Result:
+Clicking the Filter button is not working on the screen.
+
+Expected Result:
+When the user clicks the Filter button, the filter options should be displayed or the filtering functionality should be triggered on the screen.
+
+Env: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-29 10:45:01+00:00,2025-10-14 06:38:03+00:00,https://github.com/CodeWork-ai/E-book/issues/21
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfRZhQ,Issue,E-book,,Email notification not received after creating a user,"Steps to Reproduce:
+Log in to the platform using the Admin account.
+Click on Profile.
+Click on Users.
+Click on Add user.
+
+Actual Result:
+After providing all the details and clicking the Create User button, the account is created but the email notification is not received at the specified email address.
+
+Expected Result:
+After providing all the details and clicking the Create User button, the account should be created and a confirmation email should be sent to the specified email address.
+
+Env: DEV
+
+https://github.com/user-attachments/assets/c4c863f4-9a2b-469a-a22d-948134e456da",sindhuja-S31,suruthisagar97,,,bug,,,,2025-09-29 11:01:53+00:00,2025-10-06 07:18:17+00:00,https://github.com/CodeWork-ai/E-book/issues/22
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfRai4,Issue,E-book,,Edit User option not responding from three-dot menu,"Steps to Reproduce:
+Log in to the platform using the Admin account.
+Click on Profile.
+Click on Users.
+
+Actual Result:
+Clicking the three-dot button and selecting Edit User does not give any response on the screen.
+
+Expected Result:
+When the user clicks the three-dot button and selects Edit User, the edit user form or modal should appear on the screen, allowing the user to update the details.
+
+Env: DEV",sindhuja-S31,suruthisagar97,,,bug,,,,2025-09-29 11:08:17+00:00,2025-09-29 11:08:17+00:00,https://github.com/CodeWork-ai/E-book/issues/23
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfRcwo,Issue,E-book,,Delete User option not responding on the User page.,"Steps to Reproduce:
+Log in to the platform using the Admin account.
+Click on Profile.
+Click on Users.
+
+Actual Result:
+Clicking the three-dot button and selecting Delete User does not give any response on the screen.
+
+Expected Result:
+When the user clicks the three-dot button and selects Delete User, a confirmation prompt should appear, and upon confirmation, the selected user should be deleted and removed from the list.
+
+Env: DEV",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-29 11:20:37+00:00,2025-10-14 09:05:34+00:00,https://github.com/CodeWork-ai/E-book/issues/25
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfUTNI,Issue,E-book,,Incorrect file size displayed in table when referenced page values are updated,"Steps to Reproduce:
+Log in to the platform using the User account.
+
+Actual Result:
+The file size shown in the table is incorrect when the referenced page values change.
+
+Expected Result:
+The file size displayed in the table should update correctly when the referenced page values change.
+
+Env: DEV
+
+https://github.com/user-attachments/assets/882e0446-9e1d-449d-b096-6ff37cd2381f",suruthisagar97,suruthisagar97,,,bug,,,,2025-09-30 08:57:21+00:00,2025-10-14 09:04:08+00:00,https://github.com/CodeWork-ai/E-book/issues/27
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfUX9E,Issue,E-book,,Incorrect date and time displayed after file upload,"Steps to Reproduce:
+Log in to the platform using the User account.
+Click on Add Document.
+
+Actual Result:
+After uploading a file, the displayed date and time are incorrect.
+
+Expected Result:
+After uploading a file, the correct date and time should be displayed.
+
+Env: DEV
+
+<!-- Failed to upload ""20250930-0911-02.9368363.mp4"" -->",sindhuja-S31,suruthisagar97,,,bug,,,,2025-09-30 09:18:50+00:00,2025-09-30 09:18:50+00:00,https://github.com/CodeWork-ai/E-book/issues/28
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfUcn4,Issue,E-book,,Rename option fails via three-dot menu,"Steps to Reproduce:
+Log in to the platform using the User account.
+
+Actual Result:
+After selecting any file and clicking the three-dot button, the Rename option does not work.
+
+Expected Result:
+Clicking the Rename option after selecting a file from the three-dot menu should allow the user to rename the file successfully.
+
+Env: DEV",sindhuja-S31,suruthisagar97,,,bug,,,,2025-09-30 09:41:56+00:00,2025-09-30 09:41:56+00:00,https://github.com/CodeWork-ai/E-book/issues/29
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfUrxU,Issue,E-book,,Duplicate access can be granted to the same user via 'Manage Access',"Steps to Reproduce:
+Log in to the platform using the User account.
+
+Actual Result:
+Select any file, click the three-dot menu, and choose 'Manage Access'. Grant access to a specific person. Then, select the same file again and try to grant access to the same person.
+
+Expected Result:
+If access has already been granted to a specific person, the system should either prevent duplicate access assignments or display a message indicating that the person already has access.
+
+Env: DEV",sindhuja-S31,suruthisagar97,,,bug,,,,2025-09-30 11:08:48+00:00,2025-09-30 11:08:48+00:00,https://github.com/CodeWork-ai/E-book/issues/30
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfoMd4,Issue,E-book,,Login error message after deleting a user from the admin account,"Steps to Reproduce:
+Log in to the platform using the User account.
+
+Actual Result:
+After deleting the user from the admin account, using the same username and password to log in shows an error message saying ‘Wrong’.
+
+Expected Result:
+After deleting the user from the admin account, the deleted user should no longer be able to log in using the same username and password. A proper error message such as “User does not exist” or “Account has been deleted” should be displayed.
+
+Env: DEV
+
+<img width=""1919"" height=""872"" alt=""Image"" src=""https://github.com/user-attachments/assets/c63e5a87-824b-4de1-af21-07c4f02d1f48"" />",sindhuja-S31,suruthisagar97,,,bug,,,,2025-10-08 05:27:54+00:00,2025-10-08 05:27:54+00:00,https://github.com/CodeWork-ai/E-book/issues/31
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfoXZA,Issue,E-book,,Popup message resets after closing it using the X button on the Add User form,"Steps to Reproduce:
+Log in to the platform using the admin account.
+Click on Profile icon.
+Click on User
+
+Actual Result:
+Click the Add User button without providing any data, then click the Create User button. A popup message appears on the screen. When clicking the X button to close the popup, the message should not be reset or disappear from the page.
+
+Expected Result:
+When the X button is clicked to close the popup message, the message should remain on the page and should not be reset or cleared.
+
+Env: DEV
+
+<!-- Failed to upload ""20251008-0647-15.4576055.mp4"" -->",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-08 06:47:57+00:00,2025-10-14 06:55:44+00:00,https://github.com/CodeWork-ai/E-book/issues/33
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfociA,Issue,E-book,,Flipbot shows suggestions and PDF content without any uploaded documents.,"Steps to Reproduce:
+Log in to the platform using the admin or User account.
+Click on Chatbot.
+
+Actual Result:
+Without uploading any documents in Flipbot, it suggests some questions, and clicking on them shows PDF-related text.
+
+Expected Result:
+Without uploading any documents in Flipbot, no questions should be suggested, and no PDF-related text should be displayed.
+
+Env: DEV
+
+https://github.com/user-attachments/assets/c533e437-8aa4-4e7c-a055-fb632244f80b",sindhuja-S31,suruthisagar97,,,bug,,,,2025-10-08 07:21:12+00:00,2025-10-08 07:21:12+00:00,https://github.com/CodeWork-ai/E-book/issues/34
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfsfgc,Issue,E-book,,Allow re-upload of the same PDF without displaying any pop-up messages.,"Steps to Reproduce:
+Log in to the platform using the admin account.
+
+Actual Result:
+Once a PDF is uploaded, uploading the same PDF again should be accepted without showing any pop-up messages.
+
+Expected Result:
+Once a PDF is uploaded, uploading the same PDF again should not be accepted and should not show any pop-up messages.
+
+Env: DEV",sindhuja-S31,suruthisagar97,,,bug,,,,2025-10-09 11:46:58+00:00,2025-10-09 11:46:58+00:00,https://github.com/CodeWork-ai/E-book/issues/35
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfsgRo,Issue,E-book,,Folder not moved when selecting multiple PDFs and a folder.,"Steps to Reproduce:
+Log in to the platform using the admin account.
+
+
+Actual Result:
+When selecting multiple PDFs and a folder and moving them to another folder, the PDFs are successfully moved, but the selected folder is not moved.
+
+Expected Result:
+When selecting multiple PDFs and a folder and moving them to another folder, both the PDFs and the selected folder should be successfully moved to the target folder.
+
+Env: DEV",sindhuja-S31,suruthisagar97,,,bug,,,,2025-10-09 11:51:51+00:00,2025-10-09 11:51:51+00:00,https://github.com/CodeWork-ai/E-book/issues/36
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfzGWA,Issue,E-book,,File details and time format are not displayed correctly on the Home screen.,"Steps to Reproduce:
+Log in to the platform using the admin account.
+
+Actual Result:
+On the Home screen, the File, Last Viewed, and Size columns are not displayed, and the time format does not show the correct time.
+
+Expected Result:
+The File, Last Viewed, and Size columns should be displayed correctly on the Home screen, and the time format should show the correct time.
+
+Env: DEV
+
+<img width=""1918"" height=""786"" alt=""Image"" src=""https://github.com/user-attachments/assets/1d785f59-87c3-4eb0-947a-0427c65c9e8f"" />",sindhuja-S31,suruthisagar97,,,bug,,,,2025-10-13 06:18:42+00:00,2025-10-13 06:18:42+00:00,https://github.com/CodeWork-ai/E-book/issues/38
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfzJgA,Issue,E-book,,Email ID and password exposed in Network tab,"Steps to Reproduce:
+Log in to the platform using the admin account.
+
+Actual Result:
+In the Network tab, the email ID and password are displayed on the screen.
+
+Expected Result:
+Email ID and password should not be visible in the Network tab.
+
+Env: DEV
+
+https://github.com/user-attachments/assets/4895880c-169c-4a49-9f46-da10178acd58",sindhuja-S31,suruthisagar97,,,bug,,,,2025-10-13 06:44:03+00:00,2025-10-13 06:44:03+00:00,https://github.com/CodeWork-ai/E-book/issues/39
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgfzhhs,Issue,E-book,,File created instead of folder on duplicate name,"Steps to Reproduce:
+Log in to the platform using the admin account.
+Click on New Folder.
+
+Actual Result:
+When creating a new folder with the same name, a file is created instead.
+
+Expected Result:
+When creating a new folder with the same name, the system should display an error message indicating that the folder name already exists, and no file should be created.
+
+Env: DEV
+
+<img width=""1918"" height=""871"" alt=""Image"" src=""https://github.com/user-attachments/assets/7edfa45e-54d6-45b1-a70c-49f940e0ad5a"" />",suruthisagar97,suruthisagar97,,,bug,,,,2025-10-13 08:59:38+00:00,2025-10-14 07:14:15+00:00,https://github.com/CodeWork-ai/E-book/issues/42
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgf6d0Y,Issue,E-book,,Forgot Password page does not close automatically after sending reset link.,"Steps to Reproduce:
+Log in to the platform using the admin account.
+Click on Forgot Password.
+
+Actual Result:
+After entering the email and clicking the “Send Reset Link” button, the password reset link is sent to the email, but the Forgot Password page does not close automatically.
+
+Expected Result:
+After entering the email and clicking the “Send Reset Link” button, a password reset link should be sent to the user’s email, and the Forgot Password page should close automatically (or redirect to the login page) once the email is successfully sent.
+
+Env: DEV",Maharajacodework,suruthisagar97,,,bug,,,,2025-10-15 12:03:40+00:00,2025-10-15 12:03:40+00:00,https://github.com/CodeWork-ai/E-book/issues/43
+CodeWork-ai,E- book,6,PVTI_lADOCzkvuc4A-a3pzgf_3zs,Issue,E-book,,"Admin grants file access, but recent PDFs appear and User’s recent tab page shows on Admin’s PDF view.","Steps to Reproduce:
+Log in to the platform using the User account.
+Click on Recent tab.
+
+Actual Result:
+From the Admin account, when granting access to a file or PDF to another user in the 'User' account, it shows the recent PDFs in the tabs without opening any of them. Additionally, when the Admin page opens any PDF, it also displays the User's recent tab page.
+
+Expected Result:
+When the Admin grants access to a file or PDF to a 'User' account, the system should show the correct file, not the recent PDFs. Additionally, when the Admin opens a PDF, it should only display the Admin's view, not the User's recent tab page.
+
+Env: DEV
+
+https://github.com/user-attachments/assets/070bbeee-50fb-4825-b262-57bc4443a7d3",sindhuja-S31,suruthisagar97,,,bug,,,,2025-10-17 05:18:36+00:00,2025-10-17 05:32:55+00:00,https://github.com/CodeWork-ai/E-book/issues/44

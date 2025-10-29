@@ -1,0 +1,188 @@
+organization,project_name,project_number,project_item_id,item_type,repo,issue_pr_number,task_title,task_description,assignees,assigned_by,status,priority,labels,milestone,iteration,due_date,created_at,updated_at,url
+CodeWork-ai,AI Tutor,23,PVTI_lADOCzkvuc4BGIz9zggRFWo,Issue,AI_Tutor_Frontend,,File upload and chat box overlap when opened simultaneously.,"**Steps to Reproduce**
+
+Navigate to https://dev.edubot.codework.ai/
+
+Log in using valid credentials.
+
+Once the home screen appears, switch to the Chat tab.
+
+
+Expected Result
+
+When the user clicks on “Upload File” or opens the chat box, each component should appear independently and clearly — without overlapping.
+The user should be able to interact with both features smoothly without visual or functional conflicts.
+
+Actual Result
+
+When both the “Upload File” window and the chat box are open at the same time, the UI elements overlap. This overlap blocks parts of the interface, making it difficult or impossible to click buttons or interact with either feature correctly.
+
+Environment  : Production",Partha-sudo1,Ganesann-Ashokkumarr,,,,,,,2025-10-24 05:24:43+00:00,2025-10-24 06:30:20+00:00,https://github.com/CodeWork-ai/AI_Tutor_Frontend/issues/1
+CodeWork-ai,AI Tutor,23,PVTI_lADOCzkvuc4BGIz9zggRrBg,Issue,Ai_tutor_backend-,,"The backend fails to process PDF uploads and chat queries, resulting in a 500 error.","**Steps to Reproduce:**
+
+Navigate to the EduBot login page and log in with valid credentials.
+
+Go to the chat tab and initiate a conversation.
+
+Ask a question (even if irrelevant) and observe the response.
+
+Upload another PDF file for further queries.
+
+Ask a question after uploading the file, and notice that a 500 error is triggered.
+
+Actual Result:
+The system successfully handles irrelevant questions but throws a 500 error after uploading a new PDF and querying again.
+
+Expected Result:
+The system should handle the PDF upload and allow continued interaction in the chat without throwing a 500 error.
+
+Environment : Production
+
+Browser : Chrome (Version 141.0.7390.108)
+
+<!-- Failed to upload ""20251024-0923-43.2084239.mp4"" -->",Partha-sudo1,Ganesann-Ashokkumarr,,,bug,,,,2025-10-24 09:26:16+00:00,2025-10-24 09:26:16+00:00,https://github.com/CodeWork-ai/Ai_tutor_backend-/issues/27
+CodeWork-ai,AI Tutor,23,PVTI_lADOCzkvuc4BGIz9zggR-ZE,Issue,AI_Tutor_Frontend,,Selecting a chat in the Conversations list displays the wrong chat after asking a question.,"Steps to Reproduce:
+Hit the URL https://dev.edubot.codework.ai/
+Click on Chat.
+
+Actual Result:
+In the Conversations list, after selecting a chat and asking a question, the screen shows a different chat instead.
+
+Expected Result:
+When selecting a chat in the Conversations list and asking a question, the correct chat should be displayed on the screen without switching to another chat.
+
+https://github.com/user-attachments/assets/05a595d2-7c78-483a-a2ca-c6b1e7129545",Partha-sudo1,suruthisagar97,,,bug,,,,2025-10-24 11:22:28+00:00,2025-10-24 11:22:39+00:00,https://github.com/CodeWork-ai/AI_Tutor_Frontend/issues/2
+CodeWork-ai,AI Tutor,23,PVTI_lADOCzkvuc4BGIz9zggSB1Q,Issue,AI_Tutor_Frontend,,"Clicking on suggested questions after entering ""hi"" in the chat field triggers an error message.","Steps to Reproduce:
+Hit the URL https://dev.edubot.codework.ai/
+Click on Chat.
+
+Actual Result:
+After entering ""hi"" in the chat field and receiving a message with suggested questions, clicking on any suggested question triggers an error message.
+
+Expected Result:
+After entering ""hi"" in the chat field and receiving suggested questions, clicking on any suggested question should lead to a valid response without triggering an error message.
+
+https://github.com/user-attachments/assets/2b08d85b-ea57-47e8-8318-06a139dcb285",Partha-sudo1,suruthisagar97,,,bug,,,,2025-10-24 11:43:45+00:00,2025-10-24 11:43:45+00:00,https://github.com/CodeWork-ai/AI_Tutor_Frontend/issues/3
+CodeWork-ai,AI Tutor,23,PVTI_lADOCzkvuc4BGIz9zggSChY,Issue,AI_Tutor_Frontend,,Previous chat history not saved in Conversations tab after starting a new chat.,"Steps to Reproduce:
+Hit the URL https://dev.edubot.codework.ai/
+Click on Chat.
+
+Actual Result:
+After searching for topics in the chat and clicking the New Chat button, the previous chat history is not saved in the Conversations tab.
+
+Expected Result:
+When searching for topics and clicking the New Chat button, the previous chat history should be saved in the Conversations tab.",Partha-sudo1,suruthisagar97,,,bug,,,,2025-10-24 11:47:45+00:00,2025-10-24 11:47:45+00:00,https://github.com/CodeWork-ai/AI_Tutor_Frontend/issues/4
+CodeWork-ai,AI Tutor,23,PVTI_lADOCzkvuc4BGIz9zggWPJc,Issue,AI_Tutor_Frontend,,Entered value not reset and download button remains enabled after PDF generation.,"**Steps to Reproduce**
+
+Navigate to https://dev.edubot.codework.ai/
+
+Log in using valid credentials.
+
+Once the home screen appears, switch to the Courses  tab.
+
+**Actual Result:**
+Entered value is not reset even after the PDF is generated. Also, the download button remains enabled while generating the PDF, and the ""Download PDF"" option is not included in the user response.
+
+
+**Expected Result:**
+The entered value should reset automatically after the PDF is generated. The download button should be disabled while the PDF is being generated and should only be enabled once the process is complete. The ""Download PDF"" option should appear correctly in the user response.
+
+Environment : Production
+
+<img width=""1901"" height=""952"" alt=""Image"" src=""https://github.com/user-attachments/assets/db0df64c-738c-48a4-adc6-e44caff6e1d4"" />",Partha-sudo1,Ganesann-Ashokkumarr,,,bug,,,,2025-10-27 05:27:01+00:00,2025-10-27 05:27:01+00:00,https://github.com/CodeWork-ai/AI_Tutor_Frontend/issues/5
+CodeWork-ai,AI Tutor,23,PVTI_lADOCzkvuc4BGIz9zggWPt4,Issue,AI_Tutor_Frontend,,PDF generation fails with a 504 Gateway Timeout error.,"**Steps to Reproduce:**
+
+Navigate to https://dev.edubot.codework.ai/
+
+Log in with valid credentials.
+
+Go to the Courses tab.
+
+Enter a course title (e.g., Cloud Security).
+
+Select an education level (e.g., Middle/High School).
+
+Click Generate Course PDF.
+
+**Actual Result:**
+
+PDF generation fails, and the Network tab shows a 504 Gateway Timeout response from the API:
+https://api.dev.edubot.codework.ai/api/courses/generate-complete
+
+**Expected Result:**
+
+The PDF should be generated successfully, and the response should return the generated file for download without timeout errors.
+
+**Impact:**
+
+Users are unable to generate course PDFs due to backend timeout issues.
+
+**Priority:**
+
+High (functionality blocker)
+
+<img width=""1901"" height=""952"" alt=""Image"" src=""https://github.com/user-attachments/assets/73b58f1e-97fb-4298-85f5-a95cfaf3c863"" />",Partha-sudo1,Ganesann-Ashokkumarr,,,bug,,,,2025-10-27 05:32:25+00:00,2025-10-27 11:27:56+00:00,https://github.com/CodeWork-ai/AI_Tutor_Frontend/issues/6
+CodeWork-ai,AI Tutor,23,PVTI_lADOCzkvuc4BGIz9zggWRUA,Issue,Ai_tutor_backend-,,Delete Course button unresponsive and loading issue after deletion.,"**Steps to Reproduce:**
+
+Navigate to https://dev.edubot.codework.ai/
+
+Log in with valid credentials.
+
+Go to the Learning tab.
+
+Attempt to delete a course.
+
+**Actual Result:**
+
+The Delete Course button is not responsive for users.
+
+When clicking the delete button, the confirmation box remains visible and does not clearly indicate whether the course was deleted.
+
+After deletion, both the “Course deleted successfully” message and the loading screen appear simultaneously, causing confusion.
+
+Overall, there is a loading and responsiveness issue during course deletion.
+
+Expected Result:
+
+The delete confirmation box should close immediately after the user confirms deletion.
+
+A clear success message should appear once the course is deleted.
+
+The loading indicator should display properly without overlapping messages, providing a smooth user experience.
+
+Priority: Medium
+
+Impact: Causes user confusion and poor UX during course deletion, as the action feedback is unclear and loading overlaps with success message.",Partha-sudo1,Ganesann-Ashokkumarr,,,bug,,,,2025-10-27 05:49:26+00:00,2025-10-27 05:49:26+00:00,https://github.com/CodeWork-ai/Ai_tutor_backend-/issues/28
+CodeWork-ai,AI Tutor,23,PVTI_lADOCzkvuc4BGIz9zggWUeg,Issue,Ai_tutor_backend-,,Plagiarism Detection and AI Content Detection modules are not analyzing content properly.,"**Steps to Reproduce:**
+
+Navigate to https://dev.edubot.codework.ai/
+
+Log in with valid credentials.
+
+Go to the Analysis  tab.
+
+Navigate to the Plagiarism Detection or AI Content Detection section.
+
+Enter or upload any valid text/content.
+
+Click on the Analyze or Detect button.
+
+Observe the output.
+
+Expected Result:
+
+Both Plagiarism Detection and AI Content Detection features should properly analyze the given content and display accurate detection results (e.g., originality score, matched sources, or AI-generated percentage).
+
+Actual Result:
+
+Both Plagiarism Detection and AI Content Detection modules fail to detect or analyze the content properly — no proper analysis or results are displayed even after initiating the detection process.
+
+Priority:  High
+
+Impact:
+
+This issue impacts core functionality as users are unable to analyze or validate content through two major detection tools. It affects user trust and overall product reliability.
+
+<img width=""1920"" height=""1080"" alt=""Image"" src=""https://github.com/user-attachments/assets/36be6353-5ceb-4e16-a1c8-f39ab8802544"" />
+
+<img width=""1920"" height=""1080"" alt=""Image"" src=""https://github.com/user-attachments/assets/0a3f0fc7-3314-4ad6-8186-043cb9c72aa3"" />",Partha-sudo1,Ganesann-Ashokkumarr,,,bug,,,,2025-10-27 06:19:35+00:00,2025-10-28 12:01:22+00:00,https://github.com/CodeWork-ai/Ai_tutor_backend-/issues/29

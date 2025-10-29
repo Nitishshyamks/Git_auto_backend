@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+httpx
+python-dotenv
+apscheduler
+email-validator
+jinja2
